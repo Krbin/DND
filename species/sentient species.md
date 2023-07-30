@@ -1,7 +1,6 @@
-List of [[Hellas]] sentient species:
+List of [[Remembered realm]] sentient species:
 
 [[Dwarfs]]
 [[Elfs]]
 [[Humans]]
 [[Kobolts]]
-speice

@@ -1,2 +1,3 @@
 Group members:
-- [[Jack the Mag]]
+- [[Jack the Magician]]
+- 

@@ -1,4 +1,4 @@
-Group members:
+ Group members:
 - [[John]]
 - [[Eliza]]
 - [[Alex]]
@@ -7,4 +7,4 @@ Group members:
 - [[Amelia von Dero]] 
 
 
-Ended with 
+Ended with the capture the [[Kobolt]] of [[Vivex]].

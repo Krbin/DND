@@ -1,4 +1,4 @@
-Borinburg is an legendary city outside of [[Hellas]] in it's own bubble.
+Borinburg is an legendary city outside of [[Remembered realm]] in it's own bubble.
 
 It's origin it's the old previous D&D world.
 

@@ -1,4 +1,5 @@
-Goddess of Magic
+ Goddess of Magic
 
 Notable followers:
 [[Kathra]]
+

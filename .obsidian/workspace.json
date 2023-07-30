@@ -20,19 +20,55 @@
             }
           },
           {
-            "id": "1d2516954f555474",
+            "id": "bd075a6284ebaa6d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campaigns/campaign 2.md",
+                "file": "characters/non-player/Head Atheist.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bc256b8e17322b16",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "events/Court proceeding of Beatrice's assault incident.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7a65718cfe63829e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "events/Court proceeding of Beatrice's assault incident.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "11e7ed8adbe957e7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "characters/non-player/Head Atheist.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -98,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Campaigns/campaign 2.md",
+                "file": "characters/non-player/Head Atheist.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Campaigns/campaign 2.md",
+                "file": "characters/non-player/Head Atheist.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Campaigns/campaign 2.md"
+                "file": "characters/non-player/Head Atheist.md"
               }
             }
           },
@@ -179,12 +215,28 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1d2516954f555474",
+  "active": "0a55b920739b0d86",
   "lastOpenFiles": [
+    "events/Beatrice's assault of Inquisitor.md",
+    "events/Court proceeding of Beatrice's assault incident.md",
+    "characters/non-player/Head Atheist.md",
+    "characters.md",
     "Campaigns/campaign 2.md",
-    "Campaigns/campaign  1.md",
-    "characters/non-player/John Johnson.md",
+    "species/sentient species.md",
     "locations/cities/Ther-En.md",
+    "species/members/Human.md",
+    "characters/gods/Gods.md",
+    "locations/Remembered realm.md",
+    "Campaigns/Vivex campaign.md",
+    "species/members/Kobolt.md",
+    "characters/player/Beatrice Coin.md",
+    "characters/non-player/Margaret.md",
+    "characters/player/Untitled 1.md",
+    "characters/non-player/Butcher.md",
+    "characters/gods/Mystra.md",
+    "characters/non-player/John Johnson.md",
+    "characters/player/Kathra.md",
+    "Campaigns/campaign 3.md",
     "DND-obsidian",
     "organizations/Chandlers.md",
     "locations/buildings/Cave near Old D'e Porto.md",
@@ -193,31 +245,15 @@
     "calendars/AH.md",
     "species/species/sentient/Elfs.md",
     "locations/buildings/Laboratory under the church.md",
-    "calendars/Draconic Calendar.md",
     "Campaigns",
-    "locations/cities/Old D'e Porto.md",
     "campains",
-    "characters/player/Kathra.md",
-    "events/the mudbeast incident.md",
     "organizations",
-    "locations/teritories/Cossak Lands.md",
     "events",
     "locations/teritories",
-    "species/species/mudbeasts.md",
-    "organizations/Sekerolovci.md",
-    "species/species/sentient/Humans.md",
-    "species/members/Human.md",
-    "locations/cities/city of Hellenicia.md",
-    "species/species/sentient/Dwarfs.md",
-    "species/species/sentient/Kobolts.md",
     "species/species/sentient",
-    "characters/gods/Mystra.md",
     "characters/gods",
-    "characters/Untitled.md",
     "locations/buildings",
-    "characters/non-player/Butcher.md",
     "characters/player",
-    "species/sentient species.md",
     "locations/Hellas-map.png"
   ]
 }

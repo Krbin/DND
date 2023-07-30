@@ -1,3 +1,3 @@
-One of the species of [[Hellas]]
+One of the species of [[Remembered realm]]
 
 #sentient-species

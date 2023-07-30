@@ -3,4 +3,5 @@ City under the jurisdiction of [[Bergun D'e Imperialis]] where [[Chandler's inqu
 It's also housing place to [[Adventuring academy of Ther-En]].
 
 Notable characters:
-[[John Johnson]]
+[[John Johnson]].
+[[Head Atheist]]
