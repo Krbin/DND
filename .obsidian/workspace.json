@@ -1,0 +1,202 @@
+{
+  "main": {
+    "id": "b943d03a6f4542e0",
+    "type": "split",
+    "children": [
+      {
+        "id": "65ccbec088129749",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6e2fe490734cde97",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d4e3ae4f769257e0",
+    "type": "split",
+    "children": [
+      {
+        "id": "3f2e6d01b3fe8d91",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0a55b920739b0d86",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "dc10b28c9fd03504",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#sentient-species",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e31ab8f831fe7fc0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "19bff80259ff07f3",
+    "type": "split",
+    "children": [
+      {
+        "id": "86d86e3d1dee9ae1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dc72468a8c6f77fb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c6853a8da87d5829",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "54d99df5b3f79821",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d0dcd347a0f1834b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "locations/cities/Old D'e Porto.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3f8265a4d8dcb105",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "de4cf40031e9dafc",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "6e2fe490734cde97",
+  "lastOpenFiles": [
+    "DND-obsidian",
+    "Campaigns/campaign 2.md",
+    "Campaigns/campaign  1.md",
+    "organizations/Chandlers.md",
+    "locations/buildings/Cave near Old D'e Porto.md",
+    "Untitled.canvas",
+    "locations/cities/Borinburg.md",
+    "calendars/AH.md",
+    "species/species/sentient/Elfs.md",
+    "locations/buildings/Laboratory under the church.md",
+    "calendars/Draconic Calendar.md",
+    "Campaigns",
+    "locations/cities/Old D'e Porto.md",
+    "campains",
+    "characters/Kathra.md",
+    "events/the mudbeast incident.md",
+    "organizations",
+    "locations/teritories/Cossak Lands.md",
+    "events",
+    "locations/teritories",
+    "species/species/mudbeasts.md",
+    "organizations/Sekerolovci.md",
+    "species/species/sentient/Humans.md",
+    "species/members/Human.md",
+    "locations/cities/city of Hellenicia.md",
+    "species/species/sentient/Dwarfs.md",
+    "species/species/sentient/Kobolts.md",
+    "species/species/sentient",
+    "characters/gods/Mystra.md",
+    "characters/gods",
+    "characters/Untitled.md",
+    "locations/buildings",
+    "characters/non-player/Butcher.md",
+    "characters/player",
+    "characters/non-player",
+    "species/sentient species.md",
+    "locations/Hellas.md",
+    "locations/Hellas-map.png"
+  ]
+}
