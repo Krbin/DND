@@ -81,6 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "locations/cities/Old D'e Porto.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "locations/cities/Old D'e Porto.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "locations/cities/Old D'e Porto.md"
+              }
             }
           },
           {
@@ -142,11 +146,11 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 349.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -158,7 +162,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6e2fe490734cde97",
+  "active": "de4cf40031e9dafc",
   "lastOpenFiles": [
     "DND-obsidian",
     "Campaigns/campaign 2.md",
