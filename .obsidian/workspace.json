@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "campaigns/Poltergeist Campaign.md",
+                "file": "campaigns/Mindflayer Campaign.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "campaigns/Poltergeist Campaign.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "campaigns/Poltergeist Campaign.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,9 +147,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "campaigns/Poltergeist Campaign.md"
-              }
+              "state": {}
             }
           },
           {
@@ -226,8 +222,11 @@
       }
     ]
   },
-  "active": "0a55b920739b0d86",
+  "active": "bfc9c21a85d4664b",
   "lastOpenFiles": [
+    "campaigns/Mindflayer Campaign.md",
+    "campaigns/Campaigns.md",
+    "campaigns/Poltergeist Campaign.md",
     "campaigns/Post-Lortest Campaign.md",
     "campaigns/Zeppelin Campaign.md",
     "characters/non-player/Kerenevsky.md",
@@ -250,12 +249,9 @@
     "characters/player/Glitcher",
     "characters/player/groups",
     "characters/player/Glitcher/Glitcher 1.md",
-    "campaigns/Poltergeist Campaign.md",
     "characters/non-player/Academy Inquisitor.md",
     "Events/Court proceeding of Beatrice's assault incident.md",
     "characters/player/Alfred/Aneta von Dero.md",
-    "campaigns/campaign 3.md",
-    "campaigns/campaign 2.md",
     "characters/player/Character timeline.canvas",
     "characters/player/Alfred/Harold",
     "characters/player/Cajklik/Untitled",
