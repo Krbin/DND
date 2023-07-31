@@ -1,0 +1,1 @@
+[[Poltergeist]] casted a ritual that brought back one of the predecessors who as a revenge for their defeat in [[the great predecessor war]] told him to open prison of [[Giffs]] who then invaded the world in order to destroy it as a warning.

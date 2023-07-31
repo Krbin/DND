@@ -1,30 +1,22 @@
 {
-  "collapse-filter": true,
+  "collapse-filter": false,
   "search": "",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": false,
-  "colorGroups": [
-    {
-      "query": "calendars",
-      "color": {
-        "a": 1,
-        "rgb": 10849677
-      }
-    }
-  ],
+  "colorGroups": [],
   "collapse-display": false,
   "showArrow": true,
   "textFadeMultiplier": -0.5,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
-  "collapse-forces": true,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
+  "collapse-forces": false,
+  "centerStrength": 0.502067601582165,
+  "repelStrength": 9.69615246314275,
   "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 1.444051571579358,
-  "close": true
+  "linkDistance": 247,
+  "scale": 0.4795507703315796,
+  "close": false
 }

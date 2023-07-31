@@ -1,3 +1,3 @@
 Group members:
-- [[Jack the Magician]]
+- [[Jack Fullhouse]]
 - 
