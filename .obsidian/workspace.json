@@ -4,24 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "70ee8ea8fa133c48",
+        "id": "28057f9913fa4839",
         "type": "tabs",
         "children": [
           {
-            "id": "011dcde8b1e16095",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "d6cb3ec6fb19d764",
+            "id": "7f31f29199295e29",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "campaigns/Zeppelin Campaign.md",
+                "file": "characters/non-player/Dvě Koboldí děti.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "characters/non-player/Dvě Koboldí děti.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "characters/non-player/Dvě Koboldí děti.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +136,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "characters/non-player/Dvě Koboldí děti.md"
+              }
             }
           },
           {
@@ -220,50 +216,54 @@
       }
     ]
   },
-  "active": "011dcde8b1e16095",
+  "active": "7f31f29199295e29",
   "lastOpenFiles": [
-    "campaigns/Giff Campaign.md",
+    "characters/non-player/Henvik Smith.md",
+    "characters/non-player/Dvě Koboldí děti.md",
+    "characters/non-player/Arak Nicklblase.md",
+    "James the Necromancer.md",
+    "characters/non-player/Jekyll Hyde.md",
+    "characters/non-player/Dr. Hellsing.md",
+    "characters/non-player/Jekyll Hyde portrait.png",
+    "characters/non-player/Goblin Boblin.md",
+    "characters/non-player/Eskanor the Shopkeeper.md",
+    "Axel.md",
+    "characters/non-player/John Johnson House.png",
+    "characters/non-player/Lorkan Riviery portrait.png",
+    "characters/non-player/Lorkan Riviery.md",
+    "characters/non-player/Academy Inquisitor.md",
+    "characters/player/Ema/Kathra portrait.png",
+    "characters/player/Ema/Kathra.md",
+    "characters/player/Ema/GetImage (2).png",
+    "characters/player/Character timeline.canvas",
+    "campaigns/Zeppelin Campaign.md",
+    "characters/non-player/Boniface from Helenicia.md",
+    "characters/player/images",
+    "GetImage (1).png",
+    "GetImage.png",
+    "characters/player/Ema/Lisa Amakir.md",
+    "characters/non-player/Korpot.md",
+    "characters/player/Alfred/Beatrice Coin.md",
+    "characters/player/Alfred/Heavensing.md",
+    "characters/player/Alfred/Harold.md",
+    "characters/player/Alfred/Mist.md",
     "characters/player/Alfred/Aneta von Dero.md",
+    "characters/player/Alfred/Bernard von Dero.md",
+    "campaigns/Giff Campaign.md",
     "characters/non-player/Pedro von Poltergeist.md",
     "campaigns/Poltergeist Campaign.md",
-    "campaigns/Zeppelin Campaign.md",
-    "characters/player/Alfred/Beatrice Coin.md",
     "campaigns/Butcher Campaign.md",
-    "characters/player/Alfred/Rose Evenwind.md",
-    "campaigns/*Campaigns.md",
-    "characters/non-player/Keith Sher.md",
-    "characters/non-player/John Johnson.md",
-    "characters/non-player/images/John Johnson House.png",
-    "characters/player/PC list.md",
-    "Events/the Great Predecessor War.md",
-    "Bergun D'e Imperialis.md",
-    "characters/non-player/images/John Johnson portrait.png",
+    "characters/non-player/John Johnson portrait.png",
     "characters/non-player/images/GetImage 1.png",
-    "GetImage.png",
-    "GetImage (1).png",
-    "organizations/Magical Association.md",
     "characters/non-player/images",
-    "characters/non-player/Lawrence of Hellenicia.md",
-    "Hellenic armies.md",
-    "calendars/Hellenic Calendar.md",
-    "Events/Orc Invasion.md",
-    "characters/non-player/Kerenevsky.md",
-    "campaigns/Mindflayer Campaign.md",
-    "campaigns/Post-Lortest Campaign.md",
-    "Locations/cities/Tresholský Šek.md",
-    "Locations/cities/Lortest Fortress.md",
-    "campaigns/Vivex Conquest Campaign.md",
-    "characters/player/Alfred/Dorcan Coin.md",
     "characters/player/Glitcher",
     "characters/player/groups",
-    "characters/player/Character timeline.canvas",
     "characters/player/Alfred/Harold",
     "characters/player/Cajklik/Untitled",
     "Locations/Remembered-Realm-map.png",
     "characters/player/Human",
     "objects",
     "characters/player/Ema",
-    "characters/player/Alfred",
-    "characters/player/Cajklik"
+    "characters/player/Alfred"
   ]
 }
