@@ -1,1 +1,0 @@
-Introduced as a [[Ebravo Eskanor]] 

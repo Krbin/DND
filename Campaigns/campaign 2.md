@@ -1,3 +1,0 @@
-Group members:
-- [[Jack Fullhouse]]
-- 

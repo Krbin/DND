@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campaigns/Zeppelin Campaign.md",
+                "file": "campaigns/Zeppelin Campaign.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,26 +25,46 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ebravo Eskanor.md",
+                "file": "Events/Beatrice's assault of Inquisitor.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "cac47153b52fb027",
+            "id": "7b80ee4c448e7216",
+            "type": "leaf",
+            "state": {
+              "type": "3d_graph_view",
+              "state": {}
+            }
+          },
+          {
+            "id": "f0a321aa5be4290d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Baron von Zeppelin.md",
+                "file": "campaigns/Vivex Campaign.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "afa1840224e969bb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "characters/player/groups/group 1.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Baron von Zeppelin.md",
+                "file": "campaigns/Vivex Campaign.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Baron von Zeppelin.md",
+                "file": "campaigns/Vivex Campaign.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Baron von Zeppelin.md"
+                "file": "campaigns/Vivex Campaign.md"
               }
             }
           },
@@ -208,23 +228,24 @@
                 "id": "1d5a574730281494",
                 "type": "leaf",
                 "state": {
-                  "type": "graph",
-                  "state": {}
+                  "type": "markdown",
+                  "state": {
+                    "file": "Events/the Great Predecessor War.md",
+                    "mode": "source",
+                    "source": false
+                  }
                 }
               },
               {
                 "id": "bfc9c21a85d4664b",
                 "type": "leaf",
                 "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "characters/player/PC list.md",
-                    "mode": "source",
-                    "source": false
-                  }
+                  "type": "graph",
+                  "state": {}
                 }
               }
-            ]
+            ],
+            "currentTab": 1
           }
         ],
         "direction": "vertical",
@@ -237,45 +258,44 @@
       }
     ]
   },
-  "active": "cac47153b52fb027",
+  "active": "f0a321aa5be4290d",
   "lastOpenFiles": [
-    "Events/The Great Poltergeist Incident.md",
-    "Baron von Zeppelin.md",
-    "Ebravo Eskanor.md",
-    "Campaigns/Zeppelin Campaign.md",
-    "characters/non-player/Keith Sher.md",
+    "characters/player/groups/group 1.md",
+    "campaigns/Vivex Campaign.md",
     "characters/player/PC list.md",
+    "Events/the Great Predecessor War.md",
+    "characters/player/Glitcher",
+    "characters/player/groups",
+    "characters/player/Glitcher/Glitcher 1.md",
+    "campaigns/Poltergeist Campaign.md",
+    "Events/Beatrice's assault of Inquisitor.md",
+    "characters/non-player/Academy Inquisitor.md",
+    "Events/Court proceeding of Beatrice's assault incident.md",
+    "characters/player/Alfred/Aneta von Dero.md",
+    "campaigns/Post-Lortest Campaign.md",
+    "campaigns/Zeppelin Campaign.md",
+    "campaigns/campaign 3.md",
+    "campaigns/campaign 2.md",
+    "characters/non-player/Baron von Zeppelin.md",
+    "characters/non-player/Ebravo Eskanor.md",
+    "characters/player/Character timeline.canvas",
+    "characters/player/Alfred/Grace.md",
+    "characters/gods/Chandler.md",
+    "organizations/Church of Chandlers.md",
+    "Events/The Great Poltergeist Incident.md",
+    "characters/non-player/Keith Sher.md",
     "characters/player/Aleš/Atirra.md",
     "characters/non-player/Poltergeist.md",
     "characters/player/Human/Four.md",
     "characters/player/Cajklik/Alex.md",
-    "characters/player/Character timeline.canvas",
-    "characters/player/Alfred/Dorcan Coin.md",
-    "characters/player/Alfred/Herold.md",
     "characters/player/Alfred/Harold",
-    "characters/player/Human/Joshua Vigo.md",
     "characters/player/Cajklik/Untitled",
-    "characters/player/Alfred/Rose Evenwind.md",
-    "characters/player/Alfred/Bernard von Dero.md",
-    "characters/player/Alfred/Beatrice Coin.md",
-    "characters/player/Alfred/Amelia von Dero.md",
-    "characters/player/Alfred/Merisa Anna Geara Uno.md",
-    "characters/gods/Gods.md",
-    "Church of Chandlers.md",
-    "Chandler.md",
-    "characters/gods/Tymora.md",
-    "characters/player/Alfred/Rose.md",
-    "characters/player/Human/Alruna Evenstar.md",
-    "characters/player/Ema/Vall.md",
-    "characters/player/Aleš/Adow monk.md",
     "Locations/Remembered-Realm-map.png",
     "characters/player/Human",
     "objects",
     "characters/player/Ema",
     "characters/player/Alfred",
     "characters/player/Cajklik",
-    "characters/player/Aleš",
-    "DND-obsidian",
-    "Campaigns"
+    "characters/player/Aleš"
   ]
 }
