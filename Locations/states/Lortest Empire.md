@@ -1,0 +1,1 @@
+Lortest Empire was an state run by Gizikys under [[Abaddon]].

@@ -13,13 +13,42 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "characters/non-player/Dvě Koboldí děti.md",
+                "file": "characters/player/Alfred/Rose Evenwind.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "87ebb515dbdf6a6d",
+            "type": "leaf",
+            "state": {
+              "type": "3d_graph_view",
+              "state": {}
+            }
+          },
+          {
+            "id": "1ef82877bc73e5f1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "characters/non-player/Lorkan Riviery.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8a81d16f5721836b",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -85,7 +114,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "characters/non-player/Dvě Koboldí děti.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +130,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "characters/non-player/Dvě Koboldí děti.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,9 +163,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "characters/non-player/Dvě Koboldí děti.md"
-              }
+              "state": {}
             }
           },
           {
@@ -153,7 +178,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 353.5
+    "width": 252.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -216,54 +241,53 @@
       }
     ]
   },
-  "active": "7f31f29199295e29",
+  "active": "8a81d16f5721836b",
   "lastOpenFiles": [
-    "characters/non-player/Henvik Smith.md",
+    "characters/non-player/Lorkan Riviery.md",
+    "characters/player/Alfred/Rose Evenwind.md",
+    "characters/non-player/Lorkan Riviery portrait.png",
+    "Lorkan Riviery portrait.md",
+    "characters/gods/Reaper.md",
+    "characters/gods/Abaddon.md",
+    "organizations/Hellenic Templars.md",
+    "species/species/sentient/Ratking.md",
+    "Locations/buildings/Mointain tample.md",
+    "species/species/other",
+    "species/species/Untitled.md",
+    "characters/non-player/Beacon.md",
+    "characters/player/*groups/group 1.md",
+    "characters/player/*groups/AA team.md",
+    "characters/player/Alfred/Beatrice Coin.md",
+    "characters/non-player/Maja Kerenevsky.md",
+    "characters/non-player/Hector the Savior.md",
+    "characters/non-player/Axel.md",
+    "characters/non-player/Tim the Spy.md",
+    "Locations/states/Lortest Empire.md",
+    "characters/non-player/Gorge Evenhill.md",
+    "characters/player/Cajklik/Axel portrait.png",
     "characters/non-player/Dvě Koboldí děti.md",
+    "characters/non-player/Henvik Smith.md",
     "characters/non-player/Arak Nicklblase.md",
-    "James the Necromancer.md",
+    "characters/non-player/James the Necromancer.md",
     "characters/non-player/Jekyll Hyde.md",
     "characters/non-player/Dr. Hellsing.md",
     "characters/non-player/Jekyll Hyde portrait.png",
-    "characters/non-player/Goblin Boblin.md",
-    "characters/non-player/Eskanor the Shopkeeper.md",
-    "Axel.md",
     "characters/non-player/John Johnson House.png",
-    "characters/non-player/Lorkan Riviery portrait.png",
-    "characters/non-player/Lorkan Riviery.md",
-    "characters/non-player/Academy Inquisitor.md",
     "characters/player/Ema/Kathra portrait.png",
-    "characters/player/Ema/Kathra.md",
     "characters/player/Ema/GetImage (2).png",
     "characters/player/Character timeline.canvas",
-    "campaigns/Zeppelin Campaign.md",
-    "characters/non-player/Boniface from Helenicia.md",
     "characters/player/images",
     "GetImage (1).png",
     "GetImage.png",
-    "characters/player/Ema/Lisa Amakir.md",
-    "characters/non-player/Korpot.md",
-    "characters/player/Alfred/Beatrice Coin.md",
-    "characters/player/Alfred/Heavensing.md",
-    "characters/player/Alfred/Harold.md",
-    "characters/player/Alfred/Mist.md",
-    "characters/player/Alfred/Aneta von Dero.md",
-    "characters/player/Alfred/Bernard von Dero.md",
-    "campaigns/Giff Campaign.md",
-    "characters/non-player/Pedro von Poltergeist.md",
-    "campaigns/Poltergeist Campaign.md",
-    "campaigns/Butcher Campaign.md",
     "characters/non-player/John Johnson portrait.png",
     "characters/non-player/images/GetImage 1.png",
     "characters/non-player/images",
     "characters/player/Glitcher",
-    "characters/player/groups",
+    "characters/player/*groups",
     "characters/player/Alfred/Harold",
     "characters/player/Cajklik/Untitled",
-    "Locations/Remembered-Realm-map.png",
     "characters/player/Human",
     "objects",
-    "characters/player/Ema",
-    "characters/player/Alfred"
+    "characters/player/Ema"
   ]
 }
