@@ -1,2 +1,2 @@
 Temporary name of the D&D world
-[[Hellas-map.png]]
+[[Remembered-Realm-map.png]]

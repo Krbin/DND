@@ -4,107 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "65ccbec088129749",
+        "id": "1829319f42ecf673",
         "type": "tabs",
         "children": [
           {
-            "id": "0315456fd29fb958",
+            "id": "c08b78823c46813a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "characters/player/PC's.md",
+                "file": "Campaigns/Zeppelin Campaign.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "a506c9a79ecd9849",
+            "id": "34d5fb97cd2d6389",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "characters/player/Aleš/Atirra.md",
+                "file": "Ebravo Eskanor.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "dc5ac5319e866a89",
+            "id": "cac47153b52fb027",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Events/The great poltergeist Incident.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ca588aaadfdbddf1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "characters/non-player/Poltergeist.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9487c56dec82714a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Events/The great poltergeist Incident.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c115b49dd3259e70",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "characters/non-player/Poltergeist.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d72d6c88c2bf8977",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "characters/player/Aleš/Adow monk.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c3613775143aebc2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "characters/player/Aleš/Adow monk.md",
+                "file": "Baron von Zeppelin.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -170,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "characters/player/Aleš/Adow monk.md",
+                "file": "Baron von Zeppelin.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "characters/player/Aleš/Adow monk.md",
+                "file": "Baron von Zeppelin.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "characters/player/Aleš/Adow monk.md"
+                "file": "Baron von Zeppelin.md"
               }
             }
           },
@@ -239,7 +179,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 349.5
+    "width": 353.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -271,59 +211,71 @@
                   "type": "graph",
                   "state": {}
                 }
+              },
+              {
+                "id": "bfc9c21a85d4664b",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "characters/player/PC list.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
               }
             ]
           }
         ],
         "direction": "vertical",
-        "x": 3567,
-        "y": 487,
-        "width": 1430,
-        "height": 1112,
+        "x": 3277,
+        "y": 139,
+        "width": 2119,
+        "height": 596,
         "maximize": true,
         "zoom": 0
       }
     ]
   },
-  "active": "0a55b920739b0d86",
+  "active": "cac47153b52fb027",
   "lastOpenFiles": [
+    "Events/The Great Poltergeist Incident.md",
+    "Baron von Zeppelin.md",
+    "Ebravo Eskanor.md",
+    "Campaigns/Zeppelin Campaign.md",
+    "characters/non-player/Keith Sher.md",
+    "characters/player/PC list.md",
+    "characters/player/Aleš/Atirra.md",
+    "characters/non-player/Poltergeist.md",
+    "characters/player/Human/Four.md",
+    "characters/player/Cajklik/Alex.md",
+    "characters/player/Character timeline.canvas",
+    "characters/player/Alfred/Dorcan Coin.md",
+    "characters/player/Alfred/Herold.md",
+    "characters/player/Alfred/Harold",
+    "characters/player/Human/Joshua Vigo.md",
+    "characters/player/Cajklik/Untitled",
+    "characters/player/Alfred/Rose Evenwind.md",
+    "characters/player/Alfred/Bernard von Dero.md",
+    "characters/player/Alfred/Beatrice Coin.md",
+    "characters/player/Alfred/Amelia von Dero.md",
+    "characters/player/Alfred/Merisa Anna Geara Uno.md",
+    "characters/gods/Gods.md",
+    "Church of Chandlers.md",
+    "Chandler.md",
+    "characters/gods/Tymora.md",
+    "characters/player/Alfred/Rose.md",
+    "characters/player/Human/Alruna Evenstar.md",
+    "characters/player/Ema/Vall.md",
+    "characters/player/Aleš/Adow monk.md",
+    "Locations/Remembered-Realm-map.png",
     "characters/player/Human",
     "objects",
     "characters/player/Ema",
     "characters/player/Alfred",
     "characters/player/Cajklik",
     "characters/player/Aleš",
-    "characters/player/A.md",
-    "characters/player/Aleš/Adow monk.md",
-    "characters/player/PC's.md",
-    "characters/player/Character timeline.canvas",
-    "characters/player/Ema/Vail.md",
-    "characters/player/Ema/Eliza.md",
-    "characters/player/Aleš/Turo Rogue.md",
-    "characters/player/Ema/Lisa Amakir.md",
-    "characters/player/Human/John Doe.md",
-    "characters/player/Cajklik/Handy Black Head.md",
-    "characters/player/Cajklik/Gabriel Heartfelt.md",
-    "characters/player/Cajklik/Alex.md",
-    "Events/The great poltergeist Incident.md",
-    "objects/Giff Seal.md",
-    "species/species/sentient/Predecessors.md",
-    "Locations/Remembered realm.md",
-    "characters/non-player/Poltergeist.md",
-    "species/species/sentient/Giffs.md",
-    "species/members/Predecessor.md",
-    "characters/player/Aleš/Atirra.md",
-    "Locations/cities/Koltest.md",
-    "species/species/sentient/sentient species.md",
-    "characters/player/Cajklik/Jack Fullhouse.md",
-    "Events/The first poltergeist incident.md",
-    "characters/player/Aleš/Aleš the Druid.md",
-    "characters/player/characters.md",
     "DND-obsidian",
-    "Campaigns",
-    "campains",
-    "organizations",
-    "Events",
-    "Locations/Hellas-map.png"
+    "Campaigns"
   ]
 }
