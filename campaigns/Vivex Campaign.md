@@ -1,1 +1,0 @@
-The campaign started when the group met because of an invite letter from a scientist who wanted to resurect when [[group 1]] entered the city of [[Vivex]] formerly known as Trešhorský šek and taken a job

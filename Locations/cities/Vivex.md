@@ -1,4 +1,4 @@
-Originally named "Tresholský Šek" which was controlled by [[Dwarf]]s now owned by Kobolts
+Originally named "[[Tresholský Šek]]" which was controlled by [[Dwarf]]s now owned by Kobolts
 
 Together with [[Koltest]] and [[D'nat Taoulou]] it is one of the few cities where Kobolts are the ruling class.
 
