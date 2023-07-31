@@ -21,7 +21,7 @@
 [[Lisa Amakir]]
 [[Romeo Salamander]]
 [[Rose Evenwind]]
-[[Turo Rogue]]
+[[Turo]]
 [[Vall]]
 
 

@@ -1,0 +1,1 @@
+Werewolf that helped the [[Forgotten Capybara]]. 
