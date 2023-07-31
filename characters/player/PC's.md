@@ -1,6 +1,6 @@
 [[Adow monk]]
 [[Alex]]
-[[Aleš]]
+[[Aleš the Druid]]
 [[Atirra]]
 [[Azari the quick]]
 [[Azari the quick]]
@@ -15,3 +15,6 @@
 [[Romeo Salamander]]
 [[Turo Rogue]]
 [[Vail]]
+
+
+[[Character timeline.canvas|Character timeline]]

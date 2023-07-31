@@ -1,0 +1,23 @@
+{
+	"nodes":[
+		{"type":"file","file":"characters/player/Aleš/Aleš the Druid.md","id":"9f5b8784a59e26c9","x":-985,"y":-1400,"width":400,"height":400},
+		{"type":"file","file":"characters/player/Aleš/Azari the quick.md","id":"18deaa82262b961a","x":-985,"y":-880,"width":400,"height":400},
+		{"type":"file","file":"characters/player/Aleš/Atirra.md","id":"7eea9444d5bec631","x":-985,"y":-400,"width":400,"height":400},
+		{"id":"d7d17a44aecf6498","x":205,"y":-36,"width":400,"height":400,"type":"file","file":"characters/player/Human/John Doe.md"},
+		{"id":"f359cbe42a9a7b37","x":1540,"y":-36,"width":400,"height":400,"type":"file","file":"characters/player/PC's.md"},
+		{"id":"4945202e437ff8f4","x":1985,"y":-481,"width":400,"height":400,"type":"file","file":"characters/player/Alfred/Beatrice Coin.md"},
+		{"id":"c5d263e892f390bc","x":1985,"y":-36,"width":400,"height":400,"type":"file","file":"characters/player/Cajklik/Romeo Salamander.md"},
+		{"id":"bf99a2c070b720a0","x":2875,"y":-481,"width":400,"height":400,"type":"file","file":"characters/player/Cajklik/Gabriel Heartfelt.md"},
+		{"id":"88aa95c7f73a0152","x":2875,"y":-36,"width":400,"height":400,"type":"file","file":"characters/player/Ema/Vail.md"},
+		{"id":"ec1d9a8ccdedf267","x":3320,"y":-481,"width":400,"height":400,"type":"file","file":"objects/Giff Seal.md"},
+		{"id":"3996ae181da72349","x":3765,"y":-481,"width":400,"height":400,"type":"file","file":"characters/player/Cajklik/Handy Black Head.md"},
+		{"id":"0cd5a2c6c76082ef","x":-985,"y":640,"width":400,"height":400,"type":"file","file":"characters/player/Aleš/Adow monk.md"},
+		{"id":"ad9a57512bd7d492","x":-985,"y":80,"width":400,"height":400,"type":"file","file":"characters/player/Aleš/Turo Rogue.md"},
+		{"id":"a9808245e7cc58f0","x":-360,"y":-1400,"width":400,"height":400,"type":"file","file":"characters/player/Ema/Eliza.md"},
+		{"id":"5c91da73a86f0525","x":650,"y":-681,"width":400,"height":400,"type":"file","file":"characters/player/Cajklik/Alex.md"},
+		{"id":"1a01f763056852a9","x":-195,"y":440,"width":400,"height":400,"type":"file","file":"characters/player/Cajklik/Jack Fullhouse.md"},
+		{"id":"9e2557afcb5d64f6","x":-360,"y":-400,"width":400,"height":400,"type":"file","file":"characters/player/Ema/Lisa Amakir.md"},
+		{"id":"c9a6d4f22d0e2882","x":-360,"y":-881,"width":400,"height":400,"type":"file","file":"characters/player/Ema/Kathra.md"}
+	],
+	"edges":[]
+}
