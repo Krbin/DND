@@ -1,5 +1,5 @@
 Introduced as a [[Ebravo Eskanor]] he took from every adventurer a thing that they were fond of:
-[[Atirra]] - they tried to kidnap his wife
+[[Atirra]] - they tried to kidnap him
 [[Lisa Amakir]] - her eye
 [[Alruna Evenstar]] - the petrified head of her father
 [[Gabriel Heartfelt]] - memories of his best friend

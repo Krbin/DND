@@ -8,31 +8,26 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0b7a6cdb313e9b27",
+            "id": "011dcde8b1e16095",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "characters/non-player/Kerenevsky.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
-            "id": "b17ec3395fe6adec",
+            "id": "d6cb3ec6fb19d764",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "campaigns/Mindflayer Campaign.md",
+                "file": "campaigns/Zeppelin Campaign.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -158,8 +153,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -204,8 +198,12 @@
                 "id": "bfc9c21a85d4664b",
                 "type": "leaf",
                 "state": {
-                  "type": "graph",
-                  "state": {}
+                  "type": "markdown",
+                  "state": {
+                    "file": "characters/player/PC list.md",
+                    "mode": "source",
+                    "source": false
+                  }
                 }
               }
             ],
@@ -217,41 +215,47 @@
         "y": 139,
         "width": 2119,
         "height": 596,
-        "maximize": true,
+        "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "bfc9c21a85d4664b",
+  "active": "011dcde8b1e16095",
   "lastOpenFiles": [
-    "campaigns/Mindflayer Campaign.md",
-    "campaigns/Campaigns.md",
+    "campaigns/Giff Campaign.md",
+    "characters/player/Alfred/Aneta von Dero.md",
+    "characters/non-player/Pedro von Poltergeist.md",
     "campaigns/Poltergeist Campaign.md",
-    "campaigns/Post-Lortest Campaign.md",
     "campaigns/Zeppelin Campaign.md",
+    "characters/player/Alfred/Beatrice Coin.md",
+    "campaigns/Butcher Campaign.md",
+    "characters/player/Alfred/Rose Evenwind.md",
+    "campaigns/*Campaigns.md",
+    "characters/non-player/Keith Sher.md",
+    "characters/non-player/John Johnson.md",
+    "characters/non-player/images/John Johnson House.png",
+    "characters/player/PC list.md",
+    "Events/the Great Predecessor War.md",
+    "Bergun D'e Imperialis.md",
+    "characters/non-player/images/John Johnson portrait.png",
+    "characters/non-player/images/GetImage 1.png",
+    "GetImage.png",
+    "GetImage (1).png",
+    "organizations/Magical Association.md",
+    "characters/non-player/images",
+    "characters/non-player/Lawrence of Hellenicia.md",
+    "Hellenic armies.md",
+    "calendars/Hellenic Calendar.md",
+    "Events/Orc Invasion.md",
     "characters/non-player/Kerenevsky.md",
+    "campaigns/Mindflayer Campaign.md",
+    "campaigns/Post-Lortest Campaign.md",
     "Locations/cities/Tresholský Šek.md",
     "Locations/cities/Lortest Fortress.md",
     "campaigns/Vivex Conquest Campaign.md",
-    "characters/player/PC list.md",
     "characters/player/Alfred/Dorcan Coin.md",
-    "characters/player/Alfred/Harold.md",
-    "characters/player/Alfred/Grace.md",
-    "Locations/cities/Post-Lortest Fortress.md",
-    "characters/player/groups/group 1.md",
-    "Locations/cities/Vivex.md",
-    "Locations/Remembered realm.md",
-    "species/species/sentient/Goblins.md",
-    "characters/non-player/Goblin Boblin.md",
-    "Events/Beatrice's assault of Inquisitor.md",
-    "organizations/Dwarven rebellion.md",
-    "Events/the Great Predecessor War.md",
     "characters/player/Glitcher",
     "characters/player/groups",
-    "characters/player/Glitcher/Glitcher 1.md",
-    "characters/non-player/Academy Inquisitor.md",
-    "Events/Court proceeding of Beatrice's assault incident.md",
-    "characters/player/Alfred/Aneta von Dero.md",
     "characters/player/Character timeline.canvas",
     "characters/player/Alfred/Harold",
     "characters/player/Cajklik/Untitled",
@@ -260,7 +264,6 @@
     "objects",
     "characters/player/Ema",
     "characters/player/Alfred",
-    "characters/player/Cajklik",
-    "characters/player/Aleš"
+    "characters/player/Cajklik"
   ]
 }
