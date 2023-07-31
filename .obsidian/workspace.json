@@ -16,14 +16,55 @@
             }
           },
           {
-            "id": "87ebb515dbdf6a6d",
+            "id": "929d0ef5c14eb021",
             "type": "leaf",
             "state": {
-              "type": "3d_graph_view",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Sun with Many Hands.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "23ac316766bcfa83",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GOD OF SUN.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ab601fcf324998d8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "characters/gods/*Gods.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2661967cb37623e2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Nar Zk’ar.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -89,6 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Nar Zk’ar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Nar Zk’ar.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +181,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Nar Zk’ar.md"
+              }
             }
           },
           {
@@ -216,36 +261,36 @@
       }
     ]
   },
-  "active": "7f31f29199295e29",
+  "active": "2661967cb37623e2",
   "lastOpenFiles": [
+    "characters/gods/*Gods.md",
+    "Nar Zk’ar.md",
+    "Gort.md",
+    "Sun with Many Hands.md",
+    "GOD OF SUN.md",
+    "Gllenns.md",
+    "God of Sleep.md",
+    "Utern-Zara.md",
+    "Chronos.md",
+    "Gand Mole.md",
+    "Mr.Chandler.md",
+    "characters/gods/Chandler.md",
+    "species/Interracial breeding.md",
+    "species/members/Plasmoid.md",
+    "species/members/Salamander.md",
+    "calendars/Hellenic Calendar.md",
+    "calendars/Elven Calendar.md",
+    "calendars/Draconic Calendar.md",
+    "calendars/Calendars.md",
+    "calendars/AH.md",
+    "characters/non-player/Butcher.md",
+    "Locations/buildings/Laboratory under the church.md",
+    "campaigns/Butcher Campaign.md",
+    "species/species/sentient/Ratking.md",
     "characters/player/Alfred/Beatrice Coin.md",
     "characters/player/Aleš/Adow monk.md",
-    "characters/player/*groups/AA team.md",
-    "characters/player/Aleš/Aleš the Druid.md",
-    "characters/player/Aleš/Atirra.md",
-    "characters/player/Aleš/Azari the quick.md",
-    "characters/player/Aleš/Turo.md",
-    "characters/non-player/Luk.md",
-    "characters/player/Alfred/Rose Evenwind.md",
-    "characters/non-player/Lorkan Riviery.md",
-    "campaigns/Butcher Campaign.md",
-    "characters/non-player/Arak Nicklblase.md",
     "characters/non-player/Lorkan Riviery portrait.png",
-    "Lorkan Riviery portrait.md",
-    "characters/gods/Reaper.md",
-    "characters/gods/Abaddon.md",
-    "organizations/Hellenic Templars.md",
-    "species/species/sentient/Ratking.md",
-    "Locations/buildings/Mointain tample.md",
     "species/species/other",
-    "species/species/Untitled.md",
-    "characters/non-player/Beacon.md",
-    "characters/player/*groups/group 1.md",
-    "characters/non-player/Maja Kerenevsky.md",
-    "characters/non-player/Hector the Savior.md",
-    "characters/non-player/Axel.md",
-    "characters/non-player/Tim the Spy.md",
-    "Locations/states/Lortest Empire.md",
     "characters/player/Cajklik/Axel portrait.png",
     "characters/non-player/Jekyll Hyde portrait.png",
     "characters/non-player/John Johnson House.png",
