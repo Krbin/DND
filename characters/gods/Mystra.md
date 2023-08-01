@@ -1,5 +1,5 @@
  Goddess of Magic
 
 Notable followers:
-[[Kathra]]
+[[Kathra Stormwind]]
 

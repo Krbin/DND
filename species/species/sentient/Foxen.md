@@ -1,4 +1,4 @@
-Fox like creatures sly as Vex and smart as Mr.Chandeler, that are willing to mess with everybody. Many foxens thus follow Vex as their main god.  
+Fox like creatures sly as [[Vex]] and smart as Mr.Chandeler, that are willing to mess with everybody. Many foxens thus follow Vex as their main god.  
 Racial modifiers:  
 + 2 charisma  
 + 2 wisdom  

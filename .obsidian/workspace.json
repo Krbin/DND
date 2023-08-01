@@ -40,39 +40,22 @@
             }
           },
           {
-            "id": "ab601fcf324998d8",
-            "type": "leaf",
-            "state": {
-              "type": "3d_graph_view",
-              "state": {}
-            }
-          },
-          {
             "id": "4391fbc2945238fc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "characters/player/Cajklik/Alex.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9a1b1df733b6e1da",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "characters/player/Aleš/Adow monk.md",
-                "mode": "source",
-                "source": false
+                "file": "characters/player/Character timeline.canvas",
+                "viewState": {
+                  "x": 385.3447339061746,
+                  "y": 1527.063384986598,
+                  "zoom": -1.5537892936107682
+                }
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -122,7 +105,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "19bff80259ff07f3",
@@ -138,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "characters/player/Cajklik/Alex.md",
+                "file": "characters/player/Character timeline.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "characters/player/Cajklik/Alex.md",
+                "file": "characters/player/Character timeline.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "characters/player/Cajklik/Alex.md"
+                "file": "characters/player/Character timeline.canvas"
               }
             }
           },
@@ -206,7 +190,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 252.5
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -219,66 +204,24 @@
       "3d-graph:3D Graph": false
     }
   },
-  "floating": {
-    "id": "f9c5a4a56d97ec05",
-    "type": "floating",
-    "children": [
-      {
-        "id": "3dd0f5c519e509bd",
-        "type": "window",
-        "children": [
-          {
-            "id": "c4514bc623b10c8e",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "1d5a574730281494",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Events/the Great Predecessor War.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "bfc9c21a85d4664b",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "characters/player/PC list.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              }
-            ],
-            "currentTab": 1
-          }
-        ],
-        "direction": "vertical",
-        "x": 3277,
-        "y": 139,
-        "width": 2119,
-        "height": 596,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
   "active": "4391fbc2945238fc",
   "lastOpenFiles": [
-    "characters/player/PC list.md",
+    "characters/player/Human/Elizabeth Xelesa.md",
+    "characters/player/Character timeline.canvas",
+    "species/species/sentient/Predecessors.md",
+    "species/members/Predecessor.md",
     "characters/player/Aleš/Adow monk.md",
+    "Events/the Great Predecessor War.md",
+    "characters/player/PC list.md",
+    "characters/gods/Vex.md",
+    "species/species/sentient/Automaton slave rebel.md",
+    "species/species/sentient/Foxen.md",
+    "species/Interracial breeding.md",
+    "characters/player/Cajklik/Alex.md",
     "species/species/sentient/Plasmoid.md",
     "species/species/sentient/Salamander.md",
-    "species/species/sentient/Foxen.md",
     "species/species/sentient/Molefolk.md",
     "species/species/sentient/Umrlec.md",
-    "species/species/sentient/Automaton slave rebel.md",
     "species/species/sentient/Ivoria.md",
     "species/species/sentient/Wolfman.md",
     "species/species/sentient/Lizardfolks.md",
@@ -290,14 +233,6 @@
     "weapons/Untitled.md",
     "spells",
     "characters/gods/GOD OF SUN.md",
-    "weapons/Rust Monster's blood (vial).md",
-    "weapons/Sunset Sarsaparilla.md",
-    "weapons/Long spear.md",
-    "weapons/Short spear.md",
-    "weapons/Mole variants.md",
-    "weapons/Treshor.md",
-    "weapons/SAHA.md",
-    "weapons/SAMA.md",
     "weapons",
     "characters/non-player/Lorkan Riviery portrait.png",
     "species/species/other",
@@ -306,7 +241,6 @@
     "characters/non-player/John Johnson House.png",
     "characters/player/Ema/Kathra portrait.png",
     "characters/player/Ema/GetImage (2).png",
-    "characters/player/Character timeline.canvas",
     "characters/player/images",
     "GetImage (1).png",
     "GetImage.png",
