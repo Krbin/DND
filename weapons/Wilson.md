@@ -1,0 +1,1 @@
+Longsword, short swords and Short spears can be bought (all gain + 2 on DMG rolls) at cost of 380 gp

@@ -1,0 +1,1 @@
+now deals 1d8 +1 (cannot be dual wielded but can be used with any shield) if used with shield guarantees another + 1 on DMG roll.

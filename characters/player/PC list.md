@@ -23,7 +23,6 @@
 [[Rose Evenwind]]
 [[Turo]]
 [[Vall]]
-
-
+[[Mist]]
 
 [[Character timeline.canvas|Character timeline]]

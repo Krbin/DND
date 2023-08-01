@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sun with Many Hands.md",
+                "file": "characters/gods/Sun with Many Hands.md",
                 "mode": "source",
                 "source": false
               }
@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GOD OF SUN.md",
+                "file": "characters/gods/GOD OF SUN.md",
                 "mode": "source",
                 "source": false
               }
@@ -43,21 +43,29 @@
             "id": "ab601fcf324998d8",
             "type": "leaf",
             "state": {
+              "type": "3d_graph_view",
+              "state": {}
+            }
+          },
+          {
+            "id": "4391fbc2945238fc",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "characters/gods/*Gods.md",
+                "file": "characters/player/Cajklik/Alex.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "2661967cb37623e2",
+            "id": "9a1b1df733b6e1da",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nar Zk’ar.md",
+                "file": "characters/player/Aleš/Adow monk.md",
                 "mode": "source",
                 "source": false
               }
@@ -130,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Nar Zk’ar.md",
+                "file": "characters/player/Cajklik/Alex.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Nar Zk’ar.md",
+                "file": "characters/player/Cajklik/Alex.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Nar Zk’ar.md"
+                "file": "characters/player/Cajklik/Alex.md"
               }
             }
           },
@@ -261,34 +269,36 @@
       }
     ]
   },
-  "active": "2661967cb37623e2",
+  "active": "4391fbc2945238fc",
   "lastOpenFiles": [
-    "characters/gods/*Gods.md",
-    "Nar Zk’ar.md",
-    "Gort.md",
-    "Sun with Many Hands.md",
-    "GOD OF SUN.md",
-    "Gllenns.md",
-    "God of Sleep.md",
-    "Utern-Zara.md",
-    "Chronos.md",
-    "Gand Mole.md",
-    "Mr.Chandler.md",
-    "characters/gods/Chandler.md",
-    "species/Interracial breeding.md",
-    "species/members/Plasmoid.md",
-    "species/members/Salamander.md",
-    "calendars/Hellenic Calendar.md",
-    "calendars/Elven Calendar.md",
-    "calendars/Draconic Calendar.md",
-    "calendars/Calendars.md",
-    "calendars/AH.md",
-    "characters/non-player/Butcher.md",
-    "Locations/buildings/Laboratory under the church.md",
-    "campaigns/Butcher Campaign.md",
-    "species/species/sentient/Ratking.md",
-    "characters/player/Alfred/Beatrice Coin.md",
+    "characters/player/PC list.md",
     "characters/player/Aleš/Adow monk.md",
+    "species/species/sentient/Plasmoid.md",
+    "species/species/sentient/Salamander.md",
+    "species/species/sentient/Foxen.md",
+    "species/species/sentient/Molefolk.md",
+    "species/species/sentient/Umrlec.md",
+    "species/species/sentient/Automaton slave rebel.md",
+    "species/species/sentient/Ivoria.md",
+    "species/species/sentient/Wolfman.md",
+    "species/species/sentient/Lizardfolks.md",
+    "characters/gods/Utern-Zara.md",
+    "characters/gods/Chronos.md",
+    "spells/Magic refractuation.md",
+    "spells/Storm of Leaves.md",
+    "weapons/ALRAM.md",
+    "weapons/Untitled.md",
+    "spells",
+    "characters/gods/GOD OF SUN.md",
+    "weapons/Rust Monster's blood (vial).md",
+    "weapons/Sunset Sarsaparilla.md",
+    "weapons/Long spear.md",
+    "weapons/Short spear.md",
+    "weapons/Mole variants.md",
+    "weapons/Treshor.md",
+    "weapons/SAHA.md",
+    "weapons/SAMA.md",
+    "weapons",
     "characters/non-player/Lorkan Riviery portrait.png",
     "species/species/other",
     "characters/player/Cajklik/Axel portrait.png",
@@ -307,8 +317,6 @@
     "characters/player/*groups",
     "characters/player/Alfred/Harold",
     "characters/player/Cajklik/Untitled",
-    "characters/player/Human",
-    "objects",
-    "characters/player/Ema"
+    "characters/player/Human"
   ]
 }

@@ -1,0 +1,3 @@
+Two barrel crossbow ALRAM was added that deals 2d6 +2 at cost of -1 accuracy and 120 gp
+
+It is the name of the concern that creates it ( It was created by merging Alfons L. and Ranged Automatic Machines) Alfons Loyd was a great guy, he created Fire Mole, basically one us pocket fireball and other stuff, but he never managed to create his invention on large scale and his company after scandal lost its power and was merged with R.M. (creators of steel crossbow parts) and thus ALRAM proving family own business ussually not work...

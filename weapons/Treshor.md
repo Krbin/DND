@@ -1,0 +1,1 @@
+Added Treshor heavy warhammer two handed melee weapon that deals 1d12 + 4 and -2 on accuracy.

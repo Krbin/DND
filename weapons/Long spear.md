@@ -1,0 +1,1 @@
+Long spear deals 1d12 (two handed) and now has attack range of 10ft. with disadvantage on -3 on accuracy + DMG of Halberd and Glaive is now 2d6

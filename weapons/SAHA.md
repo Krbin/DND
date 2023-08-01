@@ -1,0 +1,1 @@
+Added Safety Asbestos Heavy Armor SAHA (heavy Armour 650 gp that gives 13 ac and modifies all fire damage by -50% and disadvantage on stealth)

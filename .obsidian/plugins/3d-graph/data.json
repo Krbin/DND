@@ -7,7 +7,7 @@
   },
   "display": {
     "nodeSize": 4,
-    "linkThickness": 5,
+    "linkThickness": 6,
     "particleSize": 4,
     "particleCount": 4
   }

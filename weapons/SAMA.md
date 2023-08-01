@@ -1,0 +1,1 @@
+Added Safety Asbestos Medium Armor  (medium Armour 400 gp that gives 12 ac and modifies all fire damage by -25%)
