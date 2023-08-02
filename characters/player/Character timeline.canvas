@@ -2,7 +2,7 @@
 	"nodes":[
 		{"type":"file","file":"characters/player/Aleš/Turo.md","id":"ad9a57512bd7d492","x":-880,"y":560,"width":400,"height":400,"color":"6"},
 		{"type":"file","file":"characters/player/Aleš/Aleš the Druid.md","id":"9f5b8784a59e26c9","x":-880,"y":-881,"width":400,"height":400,"color":"6"},
-		{"type":"file","file":"characters/player/Aleš/Adow monk.md","id":"0cd5a2c6c76082ef","x":-880,"y":1040,"width":400,"height":400,"color":"6"},
+		{"type":"file","file":"characters/player/Aleš/Adow.md","id":"0cd5a2c6c76082ef","x":-880,"y":1040,"width":400,"height":400,"color":"6"},
 		{"type":"file","file":"characters/player/Ema/Vall.md","id":"88aa95c7f73a0152","x":-400,"y":560,"width":400,"height":400,"color":"2"},
 		{"type":"file","file":"characters/player/Ema/Kathra Stormwind.md","id":"c9a6d4f22d0e2882","x":-400,"y":-400,"width":400,"height":400,"color":"2"},
 		{"type":"file","file":"characters/player/Ema/Lisa Amakir.md","id":"9e2557afcb5d64f6","x":-400,"y":80,"width":400,"height":400,"color":"2"},

@@ -1,4 +1,4 @@
-[[Adow monk]]
+[[Adow]]
 [[Alex]]
 [[Aleš the Druid]]
 [[Alruna Evenstar]]
