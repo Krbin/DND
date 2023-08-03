@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "organizations/Church of Lawrence of Hellenicia.md",
+                "file": "Locations/Remembered realm.md",
                 "mode": "source",
                 "source": false
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "organizations/Church of Lawrence of Hellenicia.md",
+                "file": "Locations/Remembered realm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "organizations/Church of Lawrence of Hellenicia.md",
+                "file": "Locations/Remembered realm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "organizations/Church of Lawrence of Hellenicia.md"
+                "file": "Locations/Remembered realm.md"
               }
             }
           },
@@ -242,10 +242,14 @@
   },
   "active": "78100fb97f96b4f1",
   "lastOpenFiles": [
-    "characters/gods/Mr.Chandler.md",
-    "organizations/Church of Lawrence of Hellenicia.md",
-    "organizations/Chandlers.md",
+    "Locations/Remembered realm.jpg",
     "Locations/Remembered realm.md",
+    "characters/player/Character timeline.canvas",
+    "characters/non-player/Big Fernando.md",
+    "organizations/Church of Lawrence of Hellenicia.md",
+    "characters/non-player/Untitled",
+    "characters/gods/Mr.Chandler.md",
+    "organizations/Chandlers.md",
     "Locations/Remembered-Realm-map.png",
     "characters/player/Cajklik/Romeo Salamander.md",
     "characters/player/*groups/Intermission group.md",
@@ -267,11 +271,8 @@
     "characters/gods/Gand Mole.md",
     "weapons/Wilson weapons.md",
     "characters/gods/GOD OF SUN.md",
-    "characters/player/Aleš/Arax.md",
     "characters/player/Aleš/Arax.webp",
     "characters/player/Aleš/med 1.webp",
-    "characters/player/Character timeline.canvas",
-    "species/species/sentient/Predecessors.md",
     "spells",
     "weapons",
     "characters/non-player/Lorkan Riviery portrait.png",
@@ -282,12 +283,10 @@
     "characters/player/Ema/Kathra portrait.png",
     "characters/player/Ema/GetImage (2).png",
     "characters/player/images",
-    "GetImage (1).png",
     "characters/non-player/images",
     "characters/player/Glitcher",
     "characters/player/*groups",
     "characters/player/Alfred/Harold",
-    "characters/player/Cajklik/Untitled",
-    "characters/player/Human"
+    "characters/player/Cajklik/Untitled"
   ]
 }

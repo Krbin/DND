@@ -29,7 +29,7 @@
 		{"type":"file","file":"characters/player/Alfred/Hansen.md","id":"168e0004abe2bbe6","x":1040,"y":1040,"width":400,"height":400,"color":"5"},
 		{"type":"file","file":"characters/player/Alfred/Mist.md","id":"f4e4a5f81ca8b468","x":1040,"y":3440,"width":400,"height":400,"color":"5"},
 		{"type":"file","file":"characters/player/Alfred/Merisa Anna Geara Uno.md","id":"f1b545ce88f873be","x":1040,"y":560,"width":400,"height":400,"color":"5"},
-		{"id":"1af0b59cf78683bf","x":80,"y":1040,"width":400,"height":400,"color":"1","type":"file","file":"characters/player/Human/Elizabeth Xelesa.md"}
+		{"type":"file","file":"characters/player/Human/Elizabeth Xelesa.md","id":"1af0b59cf78683bf","x":80,"y":1040,"width":400,"height":400,"color":"1"}
 	],
 	"edges":[]
 }

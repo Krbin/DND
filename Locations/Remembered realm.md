@@ -1,2 +1,2 @@
 Name of the D&D world
-[[Remembered-Realm-map.png]]
+[[Remembered realm.jpg]]
