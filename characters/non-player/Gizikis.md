@@ -1,0 +1,1 @@
+He was a dictator in that win the election in [[Post-Lortest Campaign]]. He ruled the [[Lortest Empire]] and made a deal with [[Abaddon]].

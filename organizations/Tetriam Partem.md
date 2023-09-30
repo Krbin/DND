@@ -1,0 +1,1 @@
+It was a political party that was running aganist 
