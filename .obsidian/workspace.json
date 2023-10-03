@@ -11,20 +11,11 @@
             "id": "fbc62e0e686c2ee9",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "ca33e5cb3479b8aa",
-            "type": "leaf",
-            "state": {
               "type": "graph",
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -179,40 +170,39 @@
       "3d-graph:3D Graph": false
     }
   },
-  "active": "ca33e5cb3479b8aa",
+  "active": "fbc62e0e686c2ee9",
   "lastOpenFiles": [
+    "characters/player/Aleš/Arax.webp",
+    "characters/player/Aleš/Arax.md",
+    "characters/non-player/Luk.md",
+    "Gold square Race.md",
+    "species/Species of Remembered Realms.md",
+    "species/species/other/non-sentient species.md",
+    "species/species/sentient/sentient species.md",
+    "species/species/sentient/Plasmoid.md",
+    "species/species/sentient/Vixen.md",
+    "species/species/sentient/Salamander.md",
+    "species/members/Plasmoid.md",
+    "Lorenz of Hellenicia Campaign.md",
+    "characters/non-player/Freddy.md",
+    "characters/non-player/John Apple.md",
+    "Scroll Prizes.md",
     "campaigns/*Campaigns.md",
+    "Lorenz of Hellenicia.md",
+    "campaigns/Mindflayer Campaign.md",
+    "characters/player/Ema/Eliza.md",
     "campaigns/Zeppelin Campaign.md",
     "characters/non-player/Gizikis.md",
-    "characters/non-player/John Apple.md",
     "Locations/states/Lortest Empire.md",
     "characters/non-player/John Shmou.md",
     "characters/non-player/Untitled",
     "organizations/Tetriam Partem.md",
     "characters/player/Alfred/Aneta von Dero.md",
     "characters/player/Cajklik/Alex.md",
-    "characters/player/Aleš/Aerich.md",
-    "characters/player/Aleš/Adow.md",
-    "characters/player/Human/Alruna Evenstar.md",
-    "characters/player/Human/Joshua Vigo.md",
-    "Relay/Merisa.md",
-    "Relay.md",
     "Relay",
-    "characters/player/Ema/Viv Decor.md",
-    "campaigns/Bokor Campaign.md",
-    "calendars/AH.md",
-    "characters/non-player/Freddy.md",
-    "characters/player/*groups/Intermission group.md",
-    "organizations/Chandlers.md",
-    "characters/gods/Mr.Chandler.md",
-    "calendars/Calendars.md",
-    "characters/player/Glitcher/Juan De Mendes.md",
-    "Locations/states/Novodorkan Republic.md",
-    "characters/player/Ema/Kathra Stormwind.md",
     "Locations/Remembered realm.jpg",
     "characters/player/Character timeline.canvas",
     "Locations/Remembered-Realm-map.png",
-    "characters/player/Aleš/Arax.webp",
     "characters/player/Aleš/med 1.webp",
     "spells",
     "Locations/states/weapons",

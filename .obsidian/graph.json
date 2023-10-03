@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "tag:#in-progress  ",
+  "search": "",
   "showTags": false,
   "showAttachments": true,
   "hideUnresolved": false,
@@ -17,6 +17,6 @@
   "repelStrength": 9.69615246314275,
   "linkStrength": 1,
   "linkDistance": 247,
-  "scale": 4.033629366410121,
+  "scale": 0.30804705808485205,
   "close": true
 }
