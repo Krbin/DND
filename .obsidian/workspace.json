@@ -11,8 +11,12 @@
             "id": "6ac8ae1b451b52ba",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +136,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "README.md"
+              }
             }
           },
           {
@@ -173,6 +181,7 @@
   },
   "active": "6ac8ae1b451b52ba",
   "lastOpenFiles": [
+    "README.md",
     "campaigns/Sorrow Peak Campaign.md",
     "Events/the skeleton opera.md",
     "organizations/Bandits of Sorrow Peak.md",
@@ -198,7 +207,6 @@
     "characters/non-player/Bokor's monkey named Banana.md",
     "characters/non-player/Butcher.md",
     "characters/non-player/Crack the Bokor's automaton.md",
-    "characters/non-player/Dragoness rider.md",
     "Untitled.canvas",
     "characters/player/*groups",
     "Locations/Remembered realm.jpg",
