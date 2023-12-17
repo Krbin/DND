@@ -13,3 +13,5 @@ Racial Stats:
 Average height: 200 cm (6.5 feet)  
 Average weight: 100 kg (220 pounds)  
 Possible metal colour: All metallic colors.
+
+#species  #sentient-species 

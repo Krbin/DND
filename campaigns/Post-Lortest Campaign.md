@@ -3,3 +3,5 @@ It was a campaign that happened in [[Lortest Fortress]] which consisted of tryin
 [[Yuan Ti Purifiers]]
 [[Tetriam Partem]]
 [[Kerenevsky council]]
+
+#in-progress #campaign

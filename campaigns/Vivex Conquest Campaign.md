@@ -6,3 +6,5 @@ Later his sister [[Aneta von Dero]] joined the group unaware of the fate of her 
 Later they thanks to [[Alex]] who was able to fit through the tunnels and find the [[Kobolt]] group from Koltest that was planing to conquer [[Tresholský Šek]] before [[Goblins]] had their chance due to falling Dwarven government hold only by [[Kerenevsky]].
 
 With their contributions consisting of blowing up the industry sector of the city and destroying the automaton factory they helped them win the short war.
+
+#in-progress  #campaign

@@ -1,2 +1,2 @@
-Werewolf that helped the [[Forgotten Capybara]] during the [[Gold square Race]].
+Werewolf that helped the [[Forgotten Capybara]] during the [[Gold square Race Campaign]].
 
