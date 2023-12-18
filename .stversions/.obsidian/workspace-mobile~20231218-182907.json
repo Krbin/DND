@@ -11,12 +11,8 @@
             "id": "d2962bd2b2b86f0f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "characters/player/Ema/Malicia do Vries.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -95,7 +91,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "characters/player/Ema/Malicia do Vries.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -112,7 +107,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "characters/player/Ema/Malicia do Vries.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -123,9 +117,7 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {
-            "file": "characters/player/Ema/Malicia do Vries.md"
-          }
+          "state": {}
         }
       }
     ],
@@ -145,31 +137,11 @@
   },
   "active": "d2962bd2b2b86f0f",
   "lastOpenFiles": [
-    "Events/The Giff Invasion.md",
-    "Events/The Great Poltergeist Incident.md",
-    "campaigns/Giff Campaign.md",
-    "campaigns/Butcher Campaign.md",
-    "campaigns/Bokor Campaign.md",
-    "characters/player/Aleš/Atirra.md",
-    "characters/non-player/Lorenz of Hellenicia.md",
     "README.md",
-    "Events/Court proceeding of Beatrice's assault incident.md",
-    "Locations/Remembered realm.md",
-    "species/members/Dwarf.md",
-    "Locations/states/state of Hellenicia.md",
-    "species/members/Predecessor.md",
-    "characters/player/groups/AA team.md",
-    "characters/player/Aleš/Turo.md",
-    "calendars/Calendars.md",
-    "campaigns/Campaigns.md",
-    "characters/player/groups/Intermission group.md",
-    "characters/player/Alfred/Fir.md",
-    "organizations/Axehunters.md",
-    "Locations/Feywild.md",
-    "characters/player/Human/Joshua Vigo.md",
-    "Merisa.md",
-    "characters/player/Alfred/Mist.md",
     "characters/player/Ema/Vall.sync-conflict-20231217-212129-BAHNEXG.md",
-    "Locations/Elven Citadel.md"
+    "Locations/Elven Citadel.md",
+    "Elven Citadel.md",
+    "characters/player/Ema/Vall.sync-conflict-20231217-211759-BAHNEXG.md",
+    "campaigns/Gold square Race Campaign.md"
   ]
 }

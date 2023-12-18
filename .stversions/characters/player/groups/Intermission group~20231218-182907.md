@@ -4,5 +4,3 @@ Group members:
 [[Kathra Stormwind]]
 [[Romeo Salamander]]
 [[Mist]] - involuntary member
-[[Fir]]
-

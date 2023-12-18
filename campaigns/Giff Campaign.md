@@ -1,2 +1,2 @@
-
+After the [[The Great Poltergeist Incident]] the group has went back to the allied forces and were send on a mission to assemble key for a weapon that would be able to cripple [[The Giff Invasion]] armies
 #in-progress #campaign 

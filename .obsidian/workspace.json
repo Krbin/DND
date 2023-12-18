@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "8503bdba7fe4aaa3",
+        "id": "d07e449e26876981",
         "type": "tabs",
         "children": [
           {
-            "id": "6ac8ae1b451b52ba",
+            "id": "cf302510e4542964",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,9 +130,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "README.md"
-              }
+              "state": {}
             }
           },
           {
@@ -179,11 +171,13 @@
       "3d-graph:3D Graph": false
     }
   },
-  "active": "6ac8ae1b451b52ba",
+  "active": "cf302510e4542964",
   "lastOpenFiles": [
+    "Untitled Document",
+    "Untitled Folder",
+    "Events/the skeleton opera.md",
     "README.md",
     "campaigns/Sorrow Peak Campaign.md",
-    "Events/the skeleton opera.md",
     "organizations/Bandits of Sorrow Peak.md",
     "characters/player/Aleš/Aleš the Druid.md",
     "characters/non-player/The weird witch that is not witch.md",
@@ -206,7 +200,6 @@
     "characters/non-player/Boniface from Helenicia.md",
     "characters/non-player/Bokor's monkey named Banana.md",
     "characters/non-player/Butcher.md",
-    "characters/non-player/Crack the Bokor's automaton.md",
     "Untitled.canvas",
     "characters/player/*groups",
     "Locations/Remembered realm.jpg",
@@ -227,7 +220,6 @@
     "characters/non-player/John Johnson House.png",
     "characters/player/Ema/Kathra portrait.png",
     "characters/player/images",
-    "characters/non-player/images",
-    "characters/player/Glitcher"
+    "characters/non-player/images"
   ]
 }
