@@ -8,11 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "cf302510e4542964",
+            "id": "d70e885dfb90bc66",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "characters/player/Alfred/Heavensing.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "characters/player/Alfred/Heavensing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "characters/player/Alfred/Heavensing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +136,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "characters/player/Alfred/Heavensing.md"
+              }
             }
           },
           {
@@ -171,41 +179,42 @@
       "3d-graph:3D Graph": false
     }
   },
-  "active": "cf302510e4542964",
+  "active": "0a55b920739b0d86",
   "lastOpenFiles": [
+    "characters/player/Alfred/Hansen Laus.md",
+    "characters/player/Alfred/Hansen.md",
+    "characters/player/Alfred/Forrest.md",
+    "characters/player/Alfred/Fir.md",
+    "characters/player/Alfred/Dorcan Coin.md",
+    "characters/player/Alfred/Bernard von Dero.md",
+    "characters/player/Alfred/Beatrice Coin.md",
+    "characters/player/Alfred/Aneta von Dero.md",
+    "characters/player/Aleš/Turo.md",
+    "characters/player/Aleš/Azari the quick.md",
+    "characters/player/Aleš/Atirra.md",
+    "characters/player/Aleš/Arax.webp",
+    "characters/player/Aleš/Arax.md",
+    "characters/player/Aleš/Aleš the Druid.md",
+    "characters/player/Aleš/Aerich.md",
+    "characters/player/Aleš/Adow.md",
+    "characters/player/Aleš/Adarra.md",
+    "characters/non-player/Mister Skilled.md",
+    "characters/player/Cajklik/Handy Black Hat.md",
+    "characters/player/Cajklik/Jack Fullhouse.md",
+    "characters/player/Human/Joshua Vigo.md",
+    "Locations/cities/city of Hellenicia.md",
     "Untitled Document",
     "Untitled Folder",
     "Events/the skeleton opera.md",
     "README.md",
     "campaigns/Sorrow Peak Campaign.md",
     "organizations/Bandits of Sorrow Peak.md",
-    "characters/player/Aleš/Aleš the Druid.md",
     "characters/non-player/The weird witch that is not witch.md",
-    "Events/Task from Bokor (Destroy local force).md",
-    "characters/non-player/Misterios figure from Sorrow peak.md",
-    "Locations/New shop in Sorrow Peak.md",
-    "characters/player/Alfred/Hansen Laus.md",
-    "Locations/Catacombs under Sorrow Peak.md",
-    "characters/player/Ema/Vall.md",
-    "characters/player/Ema/Vall.sync-conflict-20231217-212129-BAHNEXG.md",
-    "Locations/Elven Citadel.md",
-    "characters/player/Ema/Vall.sync-conflict-20231217-211759-BAHNEXG.md",
-    "Locations/The underground city under Sorrow Peak.md",
-    "characters/player/Human/Four.md",
-    "campaigns/Gold square Race Campaign.md",
-    "Events/puzzle of many keys.md",
-    "characters/non-player/Ebravo Eskanor.md",
-    "characters/non-player/Eskanor the Shopkeeper.md",
-    "characters/non-player/Two kobold children.md",
-    "characters/non-player/Boniface from Helenicia.md",
-    "characters/non-player/Bokor's monkey named Banana.md",
-    "characters/non-player/Butcher.md",
     "Untitled.canvas",
     "characters/player/*groups",
     "Locations/Remembered realm.jpg",
     "disseases",
     "Pasted image 20231006190159.png",
-    "characters/player/Aleš/Arax.webp",
     "characters/non-player/Untitled",
     "Relay",
     "characters/player/Character timeline.canvas",
@@ -219,7 +228,6 @@
     "characters/non-player/Jekyll Hyde portrait.png",
     "characters/non-player/John Johnson House.png",
     "characters/player/Ema/Kathra portrait.png",
-    "characters/player/images",
-    "characters/non-player/images"
+    "characters/player/images"
   ]
 }
