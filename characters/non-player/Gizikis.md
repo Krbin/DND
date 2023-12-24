@@ -1,4 +1,4 @@
-*"Due to power of memes powers he is everyone you ever met and also probably you."*
+*"Due to power of memes he is everyone you ever met and also probably you."*
  - Human 24.12.2023
 
 
