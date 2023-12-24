@@ -2,3 +2,5 @@ Organization founded by [[Romeo Salamander]] whose purpose is to stop evil befor
 
 The organization activities include:
 resolving the [[the mudbeast incident]].
+
+#organisation #in-progress 

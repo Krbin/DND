@@ -1,11 +1,11 @@
 {
   "collapse-filter": false,
-  "search": "#alfred",
+  "search": "",
   "showTags": false,
   "showAttachments": true,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "tag:#PC  ",
@@ -81,6 +81,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.6412347367784523,
+  "scale": 0.3080470580848513,
   "close": false
 }

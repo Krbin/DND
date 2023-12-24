@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "d07e449e26876981",
+        "id": "c1753675cd2a65b1",
         "type": "tabs",
         "children": [
           {
-            "id": "d70e885dfb90bc66",
+            "id": "2923768c4808e319",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "characters/player/Alfred/Heavensing.md",
+                "file": "characters/non-player/Gizikis.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "characters/player/Alfred/Heavensing.md",
+                "file": "characters/non-player/Gizikis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "characters/player/Alfred/Heavensing.md",
+                "file": "characters/non-player/Gizikis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "characters/player/Alfred/Heavensing.md"
+                "file": "characters/non-player/Gizikis.md"
               }
             }
           },
@@ -169,65 +169,65 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "3d-graph:3D Graph": false,
       "audio-recorder:Start/stop recording": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "3d-graph:3D Graph": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "0a55b920739b0d86",
+  "active": "2923768c4808e319",
   "lastOpenFiles": [
-    "characters/player/Alfred/Hansen Laus.md",
-    "characters/player/Alfred/Hansen.md",
-    "characters/player/Alfred/Forrest.md",
-    "characters/player/Alfred/Fir.md",
-    "characters/player/Alfred/Dorcan Coin.md",
-    "characters/player/Alfred/Bernard von Dero.md",
-    "characters/player/Alfred/Beatrice Coin.md",
-    "characters/player/Alfred/Aneta von Dero.md",
-    "characters/player/Aleš/Turo.md",
-    "characters/player/Aleš/Azari the quick.md",
-    "characters/player/Aleš/Atirra.md",
-    "characters/player/Aleš/Arax.webp",
-    "characters/player/Aleš/Arax.md",
-    "characters/player/Aleš/Aleš the Druid.md",
-    "characters/player/Aleš/Aerich.md",
-    "characters/player/Aleš/Adow.md",
-    "characters/player/Aleš/Adarra.md",
-    "characters/non-player/Mister Skilled.md",
-    "characters/player/Cajklik/Handy Black Hat.md",
-    "characters/player/Cajklik/Jack Fullhouse.md",
-    "characters/player/Human/Joshua Vigo.md",
-    "Locations/cities/city of Hellenicia.md",
-    "Untitled Document",
-    "Untitled Folder",
-    "Events/the skeleton opera.md",
-    "README.md",
-    "campaigns/Sorrow Peak Campaign.md",
+    "characters/non-player/Freddy Mercury the dragon.md",
+    "characters/gods/Tiamat.md",
+    "characters/non-player/Gizikis.md",
+    "organizations/The Great Hellenic Unification front.md",
+    "organizations/The Great Hellenic Unficiation front.md",
+    "Events/the Capybara Invasion.md",
+    "organizations/Axehunters.md",
+    "organizations/Yuan Ti Purifiers.md",
+    "campaigns/Post-Lortest Campaign.md",
+    "News.md",
+    "organizations/Kerenevsky council.md",
+    "Locations/teritories/Islandic realm.md",
+    "Events/Battle at Gabriel beach.md",
     "organizations/Bandits of Sorrow Peak.md",
-    "characters/non-player/The weird witch that is not witch.md",
+    "organizations/Chandlers.md",
+    "organizations/Church of Chandlers.md",
+    "organizations/Church of Lawrence of Hellenicia.md",
+    "organizations/Dwarven rebellion.md",
+    "organizations/Hellenic armies.md",
+    "organizations/Hellenic Templars.md",
+    "organizations/Magical Association.md",
+    "organizations/Tetriam Partem.md",
+    "Locations/teritories/Cossak Land.md",
+    "characters/Antonio De Grazi.md",
+    "calendars/AH.md",
+    "species/species/sentient/Capybaras.md",
+    "MVOP/MVOP-string-4/text.txt",
+    "MVOP/MVOP-string-4/string-4.sln",
+    "MVOP/MVOP-string-4/string-4.csproj",
+    "MVOP/MVOP-string-4/Program.cs",
+    "MVOP/MVOP-string-4",
+    "MVOP/MVOP-VectorAngle/obj/Debug/netcoreapp3.1/uhelvekturu.pdb",
+    "MVOP/MVOP-VectorAngle/obj/Debug/netcoreapp3.1/uhelvekturu.genruntimeconfig.cache",
+    "MVOP/MVOP-VectorAngle/obj/Debug/netcoreapp3.1/uhelvekturu.dll",
+    "MVOP/MVOP-VectorAngle/obj/Debug/netcoreapp3.1/uhelvekturu.csproj.FileListAbsolute.txt",
+    "MVOP/MVOP-VectorAngle/obj/Debug/netcoreapp3.1/uhelvekturu.csproj.CoreCompileInputs.cache",
+    "characters/player/Aleš/Arax.webp",
     "Untitled.canvas",
-    "characters/player/*groups",
     "Locations/Remembered realm.jpg",
-    "disseases",
     "Pasted image 20231006190159.png",
-    "characters/non-player/Untitled",
-    "Relay",
     "characters/player/Character timeline.canvas",
     "Locations/Remembered-Realm-map.png",
     "characters/player/Aleš/med 1.webp",
-    "spells",
-    "Locations/states/weapons",
     "characters/non-player/Lorkan Riviery portrait.png",
-    "species/species/other",
     "characters/player/Cajklik/Axel portrait.png",
     "characters/non-player/Jekyll Hyde portrait.png",
     "characters/non-player/John Johnson House.png",
-    "characters/player/Ema/Kathra portrait.png",
-    "characters/player/images"
+    "characters/player/Ema/Kathra portrait.png"
   ]
 }

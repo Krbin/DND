@@ -4,3 +4,5 @@ Party realized that the bandits Ivoria.
 Later they managed to convince them that they should choose diplomacy over violence.
 
 [[Sorrow Peak]]
+
+#organisation #in-progress 
