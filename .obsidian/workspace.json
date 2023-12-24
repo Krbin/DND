@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "characters/non-player/Gizikis.md",
+                "file": "characters/player/Cajklik/Jack Fullhouse.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#in-progress",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "characters/non-player/Gizikis.md",
+                "file": "characters/player/Cajklik/Jack Fullhouse.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "characters/non-player/Gizikis.md",
+                "file": "characters/player/Cajklik/Jack Fullhouse.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "characters/non-player/Gizikis.md"
+                "file": "characters/player/Cajklik/Jack Fullhouse.md"
               }
             }
           },
@@ -181,9 +181,23 @@
   },
   "active": "2923768c4808e319",
   "lastOpenFiles": [
+    "characters/player/Cajklik/Ben Lkaj.md",
+    "characters/player/Cajklik/Ben Lkay.jpg",
+    "characters/player/Cajklik/Gabriel Heartfelt.md",
+    "characters/player/Cajklik/Gabriel Heartfelt.jpg",
+    "characters/player/Cajklik/Handy Black Hat.md",
+    "characters/player/Cajklik/Handy black hat.png",
+    "characters/player/Cajklik/Alex.md",
+    "characters/player/Cajklik/Alex.jpg",
+    "characters/player/Cajklik/Jack Fullhouse.webp",
+    "characters/player/Cajklik/Scarecrow portrait 1.png",
+    "characters/player/Cajklik/Scarecrow portrait 2.jpg",
+    "characters/player/Cajklik/Scarecrow.md",
+    "characters/player/Cajklik/Jack Fullhouse.md",
+    "PngItem_3436226 1.webp",
+    "characters/non-player/Gizikis.md",
     "characters/non-player/Freddy Mercury the dragon.md",
     "characters/gods/Tiamat.md",
-    "characters/non-player/Gizikis.md",
     "organizations/The Great Hellenic Unification front.md",
     "organizations/The Great Hellenic Unficiation front.md",
     "Events/the Capybara Invasion.md",
@@ -201,12 +215,6 @@
     "organizations/Dwarven rebellion.md",
     "organizations/Hellenic armies.md",
     "organizations/Hellenic Templars.md",
-    "organizations/Magical Association.md",
-    "organizations/Tetriam Partem.md",
-    "Locations/teritories/Cossak Land.md",
-    "characters/Antonio De Grazi.md",
-    "calendars/AH.md",
-    "species/species/sentient/Capybaras.md",
     "MVOP/MVOP-string-4/text.txt",
     "MVOP/MVOP-string-4/string-4.sln",
     "MVOP/MVOP-string-4/string-4.csproj",
@@ -220,14 +228,6 @@
     "characters/player/Aleš/Arax.webp",
     "Untitled.canvas",
     "Locations/Remembered realm.jpg",
-    "Pasted image 20231006190159.png",
-    "characters/player/Character timeline.canvas",
-    "Locations/Remembered-Realm-map.png",
-    "characters/player/Aleš/med 1.webp",
-    "characters/non-player/Lorkan Riviery portrait.png",
-    "characters/player/Cajklik/Axel portrait.png",
-    "characters/non-player/Jekyll Hyde portrait.png",
-    "characters/non-player/John Johnson House.png",
-    "characters/player/Ema/Kathra portrait.png"
+    "characters/player/Character timeline.canvas"
   ]
 }
