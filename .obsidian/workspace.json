@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6120ad75943e4de2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "characters/non-player/Breadly.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "characters/player/Cajklik/Jack Fullhouse.md",
+                "file": "characters/non-player/Breadly.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "characters/player/Cajklik/Jack Fullhouse.md",
+                "file": "characters/non-player/Breadly.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "characters/player/Cajklik/Jack Fullhouse.md"
+                "file": "characters/non-player/Breadly.md"
               }
             }
           },
@@ -155,7 +168,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           }
@@ -179,8 +194,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2923768c4808e319",
+  "active": "6120ad75943e4de2",
   "lastOpenFiles": [
+    "characters/player/Cajklik/Jack Fullhouse.md",
+    "characters/non-player/Breadly.md",
     "characters/player/Cajklik/Ben Lkaj.md",
     "characters/player/Cajklik/Ben Lkay.jpg",
     "characters/player/Cajklik/Gabriel Heartfelt.md",
@@ -193,7 +210,6 @@
     "characters/player/Cajklik/Scarecrow portrait 1.png",
     "characters/player/Cajklik/Scarecrow portrait 2.jpg",
     "characters/player/Cajklik/Scarecrow.md",
-    "characters/player/Cajklik/Jack Fullhouse.md",
     "PngItem_3436226 1.webp",
     "characters/non-player/Gizikis.md",
     "characters/non-player/Freddy Mercury the dragon.md",
@@ -214,7 +230,6 @@
     "organizations/Church of Lawrence of Hellenicia.md",
     "organizations/Dwarven rebellion.md",
     "organizations/Hellenic armies.md",
-    "organizations/Hellenic Templars.md",
     "MVOP/MVOP-string-4/text.txt",
     "MVOP/MVOP-string-4/string-4.sln",
     "MVOP/MVOP-string-4/string-4.csproj",
