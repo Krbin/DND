@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "c1753675cd2a65b1",
+        "id": "3d0c84b67c94b70b",
         "type": "tabs",
         "children": [
           {
-            "id": "2923768c4808e319",
+            "id": "aebfbc1fd6ac8471",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "characters/player/Cajklik/Jack Fullhouse.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6120ad75943e4de2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "characters/non-player/Breadly.md",
+                "file": "Underground system near Sorrow Peak docks.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "characters/non-player/Breadly.md",
+                "file": "Underground system near Sorrow Peak docks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "characters/non-player/Breadly.md",
+                "file": "Underground system near Sorrow Peak docks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "characters/non-player/Breadly.md"
+                "file": "Underground system near Sorrow Peak docks.md"
               }
             }
           },
@@ -194,8 +181,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6120ad75943e4de2",
+  "active": "aebfbc1fd6ac8471",
   "lastOpenFiles": [
+    "Locations/The underground city under Sorrow Peak.md",
+    "species/species/other/Sorrow Peak sea monsters.md",
+    "species/species/other/mudbeasts.md",
+    "Underground system near Sorrow Peak docks.md",
+    "species/species/other/non-sentient species.md",
     "characters/player/Cajklik/Jack Fullhouse.md",
     "characters/non-player/Breadly.md",
     "characters/player/Cajklik/Ben Lkaj.md",
@@ -225,11 +217,6 @@
     "Locations/teritories/Islandic realm.md",
     "Events/Battle at Gabriel beach.md",
     "organizations/Bandits of Sorrow Peak.md",
-    "organizations/Chandlers.md",
-    "organizations/Church of Chandlers.md",
-    "organizations/Church of Lawrence of Hellenicia.md",
-    "organizations/Dwarven rebellion.md",
-    "organizations/Hellenic armies.md",
     "MVOP/MVOP-string-4/text.txt",
     "MVOP/MVOP-string-4/string-4.sln",
     "MVOP/MVOP-string-4/string-4.csproj",
