@@ -4,31 +4,59 @@
     "type": "split",
     "children": [
       {
-        "id": "ef72d2a07b503d37",
+        "id": "5eb9e590887bb368",
         "type": "tabs",
         "children": [
           {
-            "id": "79c4de71274fb01d",
+            "id": "ff39eecaec2b0987",
+            "type": "leaf",
+            "state": {
+              "type": "3d_graph_view",
+              "state": {}
+            }
+          },
+          {
+            "id": "e40d1ece9a9f736e",
+            "type": "leaf",
+            "state": {
+              "type": "3d_graph_view",
+              "state": {}
+            }
+          },
+          {
+            "id": "86ba59cc7de0c171",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "4ffe8668178796f7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "campaigns/Post-Lortest Campaign.md",
+                "file": "Untitled.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "9b540c235444bbee",
+            "id": "5dd897c896c9ccd4",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Locations/buildings/Cave near Old D'e Porto.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -94,7 +122,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "campaigns/Post-Lortest Campaign.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +138,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "campaigns/Post-Lortest Campaign.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,9 +159,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "campaigns/Post-Lortest Campaign.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -152,14 +176,34 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "darlal-switcher-plus:Open in Headings Mode": false,
+      "darlal-switcher-plus:Open Symbols for the active editor": false,
+      "omnisearch:Omnisearch": false,
+      "yet-another-obsidian-synchronizer:YAOS": false
     }
   },
-  "active": "9b540c235444bbee",
+  "active": "86ba59cc7de0c171",
   "lastOpenFiles": [
-    "campaigns/Post-Lortest Campaign.md",
-    "campaigns/Giff Campaign.md",
+    "Locations/cities/Elven Citadel.md",
+    "campaigns/Vivex Conquest Campaign.md",
+    "Locations/cities/Koltest.md",
+    "Locations/teritories/Cossak Land.md",
+    "species/species/sentient/Ivoria.md",
+    "characters/non-player/Keith Sher.md",
+    "Locations/cities/Ther-En.md",
+    "Untitled.md",
+    "Locations/buildings/Kasmir's Emporio.md",
+    "Locations/cities/Bejas.md",
+    "Locations/buildings/Cave near Old D'e Porto.md",
+    "Events/Battle at Gabriel beach.md",
+    "Untitled.canvas",
+    "News.md",
+    "characters/player/Alfred/Hansen Laus.md",
     "campaigns/Bokor Campaign.md",
+    "campaigns/Post-Lortest Campaign.md",
+    "characters/non-player/Beacon.md",
+    "campaigns/Giff Campaign.md",
     "campaigns/Butcher Campaign.md",
     "calendars/Hellenic Calendar.md",
     "calendars/Elven Calendar.md",

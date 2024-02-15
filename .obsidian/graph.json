@@ -5,18 +5,89 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
-  "colorGroups": [],
-  "collapse-display": false,
-  "showArrow": false,
-  "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "tag:#npc  ",
+      "color": {
+        "a": 1,
+        "rgb": 14298927
+      }
+    },
+    {
+      "query": "tag:#city ",
+      "color": {
+        "a": 1,
+        "rgb": 14734418
+      }
+    },
+    {
+      "query": "tag:#PC  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
+      }
+    },
+    {
+      "query": "tag:#Event  ",
+      "color": {
+        "a": 1,
+        "rgb": 6824384
+      }
+    },
+    {
+      "query": "tag:#state  ",
+      "color": {
+        "a": 1,
+        "rgb": 3691452
+      }
+    },
+    {
+      "query": "tag:#organisation  ",
+      "color": {
+        "a": 1,
+        "rgb": 5419488
+      }
+    },
+    {
+      "query": "tag:#city  ",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "#god",
+      "color": {
+        "a": 1,
+        "rgb": 6754063
+      }
+    },
+    {
+      "query": "#species",
+      "color": {
+        "a": 1,
+        "rgb": 6498134
+      }
+    },
+    {
+      "query": "#campaign",
+      "color": {
+        "a": 1,
+        "rgb": 14745855
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": true,
+  "textFadeMultiplier": -3,
+  "nodeSizeMultiplier": 1.38358504135203,
   "lineSizeMultiplier": 1,
   "collapse-forces": false,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
-  "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 0.22996894132560958,
+  "centerStrength": 0.112369651204603,
+  "repelStrength": 9.38151743976987,
+  "linkStrength": 0.497842502696872,
+  "linkDistance": 96,
+  "scale": 0.6109575870308801,
   "close": false
 }
