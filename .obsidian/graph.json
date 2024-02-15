@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "",
+  "search": "#in-progress",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -8,17 +8,17 @@
   "collapse-color-groups": true,
   "colorGroups": [
     {
-      "query": "tag:#npc  ",
+      "query": "#god ",
       "color": {
         "a": 1,
-        "rgb": 14298927
+        "rgb": 6754063
       }
     },
     {
       "query": "tag:#city ",
       "color": {
         "a": 1,
-        "rgb": 14734418
+        "rgb": 3604735
       }
     },
     {
@@ -46,21 +46,14 @@
       "query": "tag:#organisation  ",
       "color": {
         "a": 1,
-        "rgb": 5419488
+        "rgb": 45050
       }
     },
     {
-      "query": "tag:#city  ",
+      "query": "tag:#npc  ",
       "color": {
         "a": 1,
-        "rgb": 14701138
-      }
-    },
-    {
-      "query": "#god",
-      "color": {
-        "a": 1,
-        "rgb": 6754063
+        "rgb": 12592678
       }
     },
     {
@@ -88,6 +81,6 @@
   "repelStrength": 9.38151743976987,
   "linkStrength": 0.497842502696872,
   "linkDistance": 96,
-  "scale": 0.6109575870308801,
+  "scale": 0.09729657323157442,
   "close": false
 }

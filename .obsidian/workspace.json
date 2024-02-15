@@ -8,55 +8,14 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ff39eecaec2b0987",
-            "type": "leaf",
-            "state": {
-              "type": "3d_graph_view",
-              "state": {}
-            }
-          },
-          {
-            "id": "e40d1ece9a9f736e",
-            "type": "leaf",
-            "state": {
-              "type": "3d_graph_view",
-              "state": {}
-            }
-          },
-          {
             "id": "86ba59cc7de0c171",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "3d-graph-view-global",
               "state": {}
             }
-          },
-          {
-            "id": "4ffe8668178796f7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5dd897c896c9ccd4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Locations/buildings/Cave near Old D'e Porto.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -159,7 +118,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Untitled.canvas"
+              }
             }
           }
         ]
@@ -180,11 +141,15 @@
       "darlal-switcher-plus:Open in Headings Mode": false,
       "darlal-switcher-plus:Open Symbols for the active editor": false,
       "omnisearch:Omnisearch": false,
-      "yet-another-obsidian-synchronizer:YAOS": false
+      "yet-another-obsidian-synchronizer:YAOS": false,
+      "3d-graph-new:Global 3D Graph": false
     }
   },
-  "active": "86ba59cc7de0c171",
+  "active": "7654e6cffe3616dc",
   "lastOpenFiles": [
+    "Untitled 1.canvas",
+    "Locations/buildings/Cave near Old D'e Porto.md",
+    "characters/gods/Mystra.md",
     "Locations/cities/Elven Citadel.md",
     "campaigns/Vivex Conquest Campaign.md",
     "Locations/cities/Koltest.md",
@@ -195,7 +160,6 @@
     "Untitled.md",
     "Locations/buildings/Kasmir's Emporio.md",
     "Locations/cities/Bejas.md",
-    "Locations/buildings/Cave near Old D'e Porto.md",
     "Events/Battle at Gabriel beach.md",
     "Untitled.canvas",
     "News.md",
