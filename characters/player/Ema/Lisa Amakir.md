@@ -1,2 +1,3 @@
-Aprentice of [[Juan dem Mendese]]
+Apprentice of [[Juan dem Mendese]]
+
 #PC #Ema #in-progress

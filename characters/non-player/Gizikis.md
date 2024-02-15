@@ -33,7 +33,7 @@ So when [[Abaddon]] proposed a contract where Gizikis could even keep his soul b
 
 Soon Gizikis started to gain traction because he presented suitable alternative to the fractions that were hated at that time. 
 
-When Hellenicia noticed that Gizikis became highly dangerous to their interests in [[Post-Lortest Fortress]] they decided to send [[Kerenevsky]] to handle the problem.
+When Hellenicia noticed that Gizikis became highly dangerous to their interests in [[Post-Lortest Fortress]] they decided to send [[Alexander Kerenevsky]] to handle the problem.
 
 At last he won with the help of [[Abaddon]] who gave his supporters mainly from the rural areas help of the magical variety in their conflicts. 
 

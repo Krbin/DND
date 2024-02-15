@@ -1,39 +1,48 @@
 {
   "main": {
-    "id": "b943d03a6f4542e0",
+    "id": "7ad0eaf4dda2bd71",
     "type": "split",
     "children": [
       {
-        "id": "3d0c84b67c94b70b",
+        "id": "ef72d2a07b503d37",
         "type": "tabs",
         "children": [
           {
-            "id": "aebfbc1fd6ac8471",
+            "id": "79c4de71274fb01d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Underground system near Sorrow Peak docks.md",
+                "file": "campaigns/Post-Lortest Campaign.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "9b540c235444bbee",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "d4e3ae4f769257e0",
+    "id": "2bb41e2ad9b44f72",
     "type": "split",
     "children": [
       {
-        "id": "3f2e6d01b3fe8d91",
+        "id": "1ca7a46e84f80a66",
         "type": "tabs",
         "children": [
           {
-            "id": "0a55b920739b0d86",
+            "id": "7654e6cffe3616dc",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,12 +52,12 @@
             }
           },
           {
-            "id": "dc10b28c9fd03504",
+            "id": "102caddebf9e481b",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#in-progress",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -58,7 +67,7 @@
             }
           },
           {
-            "id": "e31ab8f831fe7fc0",
+            "id": "8c1dde67ac54284c",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -72,20 +81,20 @@
     "width": 300
   },
   "right": {
-    "id": "19bff80259ff07f3",
+    "id": "a4d21c2e4a1dae05",
     "type": "split",
     "children": [
       {
-        "id": "86d86e3d1dee9ae1",
+        "id": "e204894e7926f837",
         "type": "tabs",
         "children": [
           {
-            "id": "dc72468a8c6f77fb",
+            "id": "e61511e161dff6d6",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Underground system near Sorrow Peak docks.md",
+                "file": "campaigns/Post-Lortest Campaign.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,19 +106,19 @@
             }
           },
           {
-            "id": "c6853a8da87d5829",
+            "id": "d672f088dc99ddf0",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Underground system near Sorrow Peak docks.md",
+                "file": "campaigns/Post-Lortest Campaign.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "54d99df5b3f79821",
+            "id": "098f9ab66a576cf6",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,59 +129,24 @@
             }
           },
           {
-            "id": "d0dcd347a0f1834b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Locations/cities/Old D'e Porto.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3f8265a4d8dcb105",
+            "id": "845337aea621c64d",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Underground system near Sorrow Peak docks.md"
-              }
-            }
-          },
-          {
-            "id": "de4cf40031e9dafc",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "7ba05c3435f66da5",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency",
-                "showSearch": false,
-                "searchQuery": ""
+                "file": "campaigns/Post-Lortest Campaign.md"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "3d-graph:3D Graph": false,
-      "audio-recorder:Start/stop recording": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -181,55 +155,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "aebfbc1fd6ac8471",
+  "active": "9b540c235444bbee",
   "lastOpenFiles": [
-    "Locations/The underground city under Sorrow Peak.md",
-    "species/species/other/Sorrow Peak sea monsters.md",
-    "species/species/other/mudbeasts.md",
-    "Underground system near Sorrow Peak docks.md",
-    "species/species/other/non-sentient species.md",
-    "characters/player/Cajklik/Jack Fullhouse.md",
-    "characters/non-player/Breadly.md",
-    "characters/player/Cajklik/Ben Lkaj.md",
-    "characters/player/Cajklik/Ben Lkay.jpg",
-    "characters/player/Cajklik/Gabriel Heartfelt.md",
-    "characters/player/Cajklik/Gabriel Heartfelt.jpg",
-    "characters/player/Cajklik/Handy Black Hat.md",
-    "characters/player/Cajklik/Handy black hat.png",
-    "characters/player/Cajklik/Alex.md",
-    "characters/player/Cajklik/Alex.jpg",
-    "characters/player/Cajklik/Jack Fullhouse.webp",
-    "characters/player/Cajklik/Scarecrow portrait 1.png",
-    "characters/player/Cajklik/Scarecrow portrait 2.jpg",
-    "characters/player/Cajklik/Scarecrow.md",
-    "PngItem_3436226 1.webp",
-    "characters/non-player/Gizikis.md",
-    "characters/non-player/Freddy Mercury the dragon.md",
-    "characters/gods/Tiamat.md",
-    "organizations/The Great Hellenic Unification front.md",
-    "organizations/The Great Hellenic Unficiation front.md",
-    "Events/the Capybara Invasion.md",
-    "organizations/Axehunters.md",
-    "organizations/Yuan Ti Purifiers.md",
     "campaigns/Post-Lortest Campaign.md",
-    "News.md",
-    "organizations/Kerenevsky council.md",
-    "Locations/teritories/Islandic realm.md",
-    "Events/Battle at Gabriel beach.md",
-    "organizations/Bandits of Sorrow Peak.md",
-    "MVOP/MVOP-string-4/text.txt",
-    "MVOP/MVOP-string-4/string-4.sln",
-    "MVOP/MVOP-string-4/string-4.csproj",
-    "MVOP/MVOP-string-4/Program.cs",
-    "MVOP/MVOP-string-4",
-    "MVOP/MVOP-VectorAngle/obj/Debug/netcoreapp3.1/uhelvekturu.pdb",
-    "MVOP/MVOP-VectorAngle/obj/Debug/netcoreapp3.1/uhelvekturu.genruntimeconfig.cache",
-    "MVOP/MVOP-VectorAngle/obj/Debug/netcoreapp3.1/uhelvekturu.dll",
-    "MVOP/MVOP-VectorAngle/obj/Debug/netcoreapp3.1/uhelvekturu.csproj.FileListAbsolute.txt",
-    "MVOP/MVOP-VectorAngle/obj/Debug/netcoreapp3.1/uhelvekturu.csproj.CoreCompileInputs.cache",
-    "characters/player/Aleš/Arax.webp",
-    "Untitled.canvas",
-    "Locations/Remembered realm.jpg",
-    "characters/player/Character timeline.canvas"
+    "campaigns/Giff Campaign.md",
+    "campaigns/Bokor Campaign.md",
+    "campaigns/Butcher Campaign.md",
+    "calendars/Hellenic Calendar.md",
+    "calendars/Elven Calendar.md",
+    "calendars/Draconic Calendar.md",
+    "calendars/Calendars.md",
+    "calendars/AH.md"
   ]
 }

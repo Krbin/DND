@@ -2,5 +2,5 @@ members:
 [[Adarra]]
 [[Forrest]]
 [[Ben Lkaj]]
-[[Malicia do Vries]]
+[[Malicia de Vries]]
 [[Mouna Emberleaf]]

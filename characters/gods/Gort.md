@@ -4,4 +4,4 @@ His main followers are mostly Capybaras
 
 True neutral
 
-#God
+#God #npc  #in-progress 

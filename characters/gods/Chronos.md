@@ -4,4 +4,4 @@ Chronos does not require much rituals but he punishes wastefulness.
 Chaotic good alignment  
 Main races of interest: Almost any races but mainly humans and dwarves
 
-#God
+#God #npc #in-progress 

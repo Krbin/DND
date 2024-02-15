@@ -2,4 +2,4 @@ The god of sun and pride. He choses a bearer of the axe and keeps him until the 
 His followers are Leonin or rarely other races accepted into Leonin ranks.  
 Domain: war
 
-#God
+#God #npc #in-progress 

@@ -3,4 +3,4 @@ One of the most powerful gods of this realm, just a mere sleeping is pledging a 
 Main races of interest: there is no escape from sleep  
 Chaotic good alignment
 
-#God
+#God #npc #in-progress 

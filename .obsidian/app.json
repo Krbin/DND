@@ -1,5 +1,5 @@
 {
+  "trashOption": "system",
   "alwaysUpdateLinks": true,
-  "vimMode": true,
-  "promptDelete": false
+  "showUnsupportedFiles": false
 }

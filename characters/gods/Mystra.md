@@ -3,4 +3,4 @@
 Notable followers:
 [[Kathra Stormwind]]
 
-#God
+#God #npc #in-progress 
