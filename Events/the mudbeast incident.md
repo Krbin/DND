@@ -2,4 +2,4 @@ Incident where [[mudbeasts]] spread through [[Cossak Land]] which threatened loc
 
 It was stopped by group of adventurers from organization called [[Axehunters]].
 
-#Event
+#Event #in-progress 

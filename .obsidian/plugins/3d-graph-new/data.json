@@ -28,22 +28,58 @@
   },
   "temporaryGlobalGraphSetting": {
     "filter": {
-      "searchQuery": "",
+      "searchQuery": "tag:#in-progress  ",
       "showOrphans": true,
       "showAttachments": false
     },
     "groups": [
       {
-        "query": "",
-        "color": "#8aece1"
+        "query": "#god ",
+        "color": "#670f0f"
+      },
+      {
+        "query": "tag:#city ",
+        "color": "#3700ff"
+      },
+      {
+        "query": "tag:#PC  ",
+        "color": "#52e051"
+      },
+      {
+        "query": "tag:#Event  ",
+        "color": "#6821c0"
+      },
+      {
+        "query": "tag:#state  ",
+        "color": "#3853bd"
+      },
+      {
+        "query": "#species",
+        "color": "#632757"
+      },
+      {
+        "query": "tag:#organisation  ",
+        "color": "#16affa"
+      },
+      {
+        "query": "tag:#npc  ",
+        "color": "#c02626"
+      },
+      {
+        "query": "#species",
+        "color": "#632757"
+      },
+      {
+        "query": "#campaign",
+        "color": "#e112ff"
       }
     ],
     "display": {
-      "nodeSize": 3,
-      "linkThickness": 2,
-      "linkDistance": 100,
-      "nodeRepulsion": 2800,
-      "distanceFromFocal": 300,
+      "nodeSize": 1.4,
+      "linkThickness": 1.1,
+      "linkDistance": 88,
+      "nodeRepulsion": 2700,
+      "distanceFromFocal": 500,
       "nodeHoverColor": "#ff0000",
       "nodeHoverNeighbourColor": "#00ff00",
       "linkHoverColor": "#0000ff",

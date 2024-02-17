@@ -4,4 +4,4 @@ He eats weird food.
 He overthrown [[Helenic councel]].
 He was assassinated by slipping on a soap.
 
-#npc
+#npc #in-progress 
