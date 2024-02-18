@@ -3,7 +3,7 @@ It is suspected as being the place from which the [[Sorrow Peak sea monsters]] c
 
 There is a functioning elevator.
 
-There is [[underground generator]] collecting magic.
+There is [[Underground Generator]] collecting magic.
 
 
 

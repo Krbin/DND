@@ -4,18 +4,59 @@
     "type": "split",
     "children": [
       {
-        "id": "3cd567a12287aec2",
+        "id": "1525e06e4d077347",
         "type": "tabs",
         "children": [
           {
-            "id": "2802107d65707318",
+            "id": "03b27f1e0fd942dd",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "characters/non-player/Random army's commissioner.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1b12a99ad944558d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "characters/non-player/Gregory The Not Hag.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5a2ce9b82890b5fc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "campaigns/Mister Handy Champaign.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ab0da6c63aae7e29",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "characters/non-player/Valencia.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -65,8 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "a4d21c2e4a1dae05",
@@ -82,6 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "characters/non-player/Gregory The Not Hag.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "characters/non-player/Gregory The Not Hag.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +161,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "characters/non-player/Gregory The Not Hag.md"
+              }
             }
           }
         ]
@@ -144,68 +188,35 @@
       "3d-graph-new:Global 3D Graph": false
     }
   },
-  "floating": {
-    "id": "90cd6ef1b5788c39",
-    "type": "floating",
-    "children": [
-      {
-        "id": "21feb7e3d53fa6ca",
-        "type": "window",
-        "children": [
-          {
-            "id": "e9d697109566a6fd",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "7a79e64b69f8471e",
-                "type": "leaf",
-                "state": {
-                  "type": "graph",
-                  "state": {}
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 1853,
-        "y": 579,
-        "width": 581,
-        "height": 1148,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "2802107d65707318",
+  "active": "1b12a99ad944558d",
   "lastOpenFiles": [
-    "campaigns/Sorrow Peak Campaign.md",
-    "Events/the skeleton opera.md",
-    "Events/the mudbeast incident.md",
-    "Events/the Great Predecessor War.md",
-    "Events/The Great Poltergeist Incident.md",
-    "Events/The Giff Invasion.md",
-    "Events/The first poltergeist incident.md",
-    "Events/the Capybara Invasion.md",
-    "Events/Task from Bokor (Epidemic).md",
-    "Events/Task from Bokor (Destroy local force).md",
-    "Events/Orc Invasion.md",
-    "Events/puzzle of many keys.md",
-    "Events/Hansen's attack on a village.md",
-    "Events/Gnome Water reaction.md",
-    "Events/Earthquake of Sorrow Peak.md",
-    "Events/Court proceeding of Beatrice's assault incident.md",
-    "Events/Bokor rebellion.md",
-    "Events/Beatrice's assault of Inquisitor.md",
-    "Events/Battle at Gabriel beach.md",
-    "disseases/Goblin flu.md",
+    "characters/non-player/Random army's commissioner.md",
+    "characters/non-player/Gregory The Not Hag.md",
+    "The ultimate smash or pass compilation made by Alfred, Rayman and Kikic.md",
     "characters/non-player/Valencia.md",
+    "campaigns/Mister Handy Champaign.md",
+    "characters/player/Ema/Viv Decor.md",
+    "characters/non-player/Two kobold children.md",
+    "characters/gods/Sun with Many Hands.md",
+    "Locations/cities/Seathbaed.md",
+    "characters/player/Cajklik/Jack Fullhouse.md",
+    "Locations/cities/Elven Citadel.md",
+    "Locations/teritories/Cossak Land.md",
+    "Locations/Remembered realm.md",
+    "calendars/Hellenic Calendar.md",
+    "Locations/cities/Bejas.md",
+    "Locations/cities/Ancient Deep Gnome city.md",
+    "Locations/buildings/Catacombs under Sorrow Peak.md",
+    "Locations/buildings/Kasmir's Emporio.md",
+    "Locations/buildings/Laboratory under the church.md",
+    "Locations/buildings/Mointain tample.md",
+    "Locations/buildings/Underground Generator.md",
+    "Locations/buildings/New shop in Sorrow Peak.md",
+    "Locations/buildings/Cave near Old D'e Porto.md",
+    "characters/non-player/Greg Bob.md",
+    "objects/anti-bat rock.md",
+    "Locations/teritories/Sorrow Peak Underdark.md",
     "characters/non-player/John Johnson House.png",
-    "characters/non-player/Joe Shmou.md",
-    "characters/non-player/Jekyll Hyde.md",
-    "characters/non-player/Janne.md",
-    "characters/non-player/Hogo fogo.md",
-    "characters/non-player/Hladový Jonny.md",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]

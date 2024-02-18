@@ -1,4 +1,4 @@
 Generator holding [[Old Chronos]]. Later released by party of adventurers in [[Sorrow Peak Campaign]].
 
 
-#object #location 
+#object #location #in-progress 
