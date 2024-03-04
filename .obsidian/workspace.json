@@ -4,59 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "1525e06e4d077347",
+        "id": "95122fe2725eeaf1",
         "type": "tabs",
         "children": [
           {
-            "id": "03b27f1e0fd942dd",
+            "id": "2efede16a51f93bf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "characters/non-player/Random army's commissioner.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1b12a99ad944558d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "characters/non-player/Gregory The Not Hag.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5a2ce9b82890b5fc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "campaigns/Mister Handy Champaign.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ab0da6c63aae7e29",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "characters/non-player/Valencia.md",
+                "file": "God chess set/God chess set.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "characters/non-player/Gregory The Not Hag.md",
+                "file": "God chess set/God chess set.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "characters/non-player/Gregory The Not Hag.md",
+                "file": "God chess set/God chess set.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "characters/non-player/Gregory The Not Hag.md"
+                "file": "God chess set/God chess set.md"
               }
             }
           }
@@ -188,12 +151,29 @@
       "3d-graph-new:Global 3D Graph": false
     }
   },
-  "active": "1b12a99ad944558d",
+  "active": "2efede16a51f93bf",
   "lastOpenFiles": [
+    "News.md",
+    "The ultimate smash or pass compilation made by Alfred, Rayman and Kikic.md",
+    "Locations/lotactions/the lake of forsaken souls.md",
+    "Locations/lotactions",
+    "God chess set/Werewolf village.png",
+    "God chess set/the suspisious church.png",
+    "God chess set/Spectator.png",
+    "God chess set/Maya the mother of werewolves.png",
+    "God chess set/Henry Zybnek Ivan.png",
+    "God chess set/God chess set.md",
+    "God chess set",
+    "Pasted image 20240225172158.png",
+    "Pasted image 20240225170057.png",
+    "Pasted image 20240225165734.png",
+    "Pasted image 20240225165720.png",
+    "Pasted image 20240225165703.png",
+    "Pasted.md",
+    "characters/non-player/Valencia.md",
     "characters/non-player/Random army's commissioner.md",
     "characters/non-player/Gregory The Not Hag.md",
-    "The ultimate smash or pass compilation made by Alfred, Rayman and Kikic.md",
-    "characters/non-player/Valencia.md",
+    "characters/non-player/Tim the Spy.md",
     "campaigns/Mister Handy Champaign.md",
     "characters/player/Ema/Viv Decor.md",
     "characters/non-player/Two kobold children.md",
@@ -210,13 +190,6 @@
     "Locations/buildings/Kasmir's Emporio.md",
     "Locations/buildings/Laboratory under the church.md",
     "Locations/buildings/Mointain tample.md",
-    "Locations/buildings/Underground Generator.md",
-    "Locations/buildings/New shop in Sorrow Peak.md",
-    "Locations/buildings/Cave near Old D'e Porto.md",
-    "characters/non-player/Greg Bob.md",
-    "objects/anti-bat rock.md",
-    "Locations/teritories/Sorrow Peak Underdark.md",
-    "characters/non-player/John Johnson House.png",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
