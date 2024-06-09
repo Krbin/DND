@@ -4,22 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "95122fe2725eeaf1",
+        "id": "b67769797020b2de",
         "type": "tabs",
         "children": [
           {
-            "id": "2efede16a51f93bf",
+            "id": "d662eb94b0eb4562",
+            "type": "leaf",
+            "state": {
+              "type": "ob-gallery",
+              "state": {}
+            }
+          },
+          {
+            "id": "172633f9dd9e3dd2",
+            "type": "leaf",
+            "state": {
+              "type": "ob-gallery",
+              "state": {}
+            }
+          },
+          {
+            "id": "1e1b745c4ecee2b6",
+            "type": "leaf",
+            "state": {
+              "type": "3d-graph-view-global",
+              "state": {}
+            }
+          },
+          {
+            "id": "793493c8ee6a4b8b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "God chess set/God chess set.md",
+                "file": "characters/player/Cajklik/Scarecrow.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -48,10 +73,10 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#in-progress",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "God chess set/God chess set.md",
+                "file": "characters/player/Cajklik/Scarecrow.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "God chess set/God chess set.md",
+                "file": "characters/player/Cajklik/Scarecrow.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,16 +150,38 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "God chess set/God chess set.md"
+                "file": "characters/player/Cajklik/Scarecrow.md"
               }
             }
+          },
+          {
+            "id": "a369d5a2973aa44a",
+            "type": "leaf",
+            "state": {
+              "type": "ob-gallery-info",
+              "state": {}
+            }
+          },
+          {
+            "id": "44ea87abd7f93c62",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM"
+            }
+          },
+          {
+            "id": "6795b96b942f7ab0",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -148,49 +195,54 @@
       "darlal-switcher-plus:Open Symbols for the active editor": false,
       "omnisearch:Omnisearch": false,
       "yet-another-obsidian-synchronizer:YAOS": false,
-      "3d-graph-new:Global 3D Graph": false
+      "3d-graph-new:Global 3D Graph": false,
+      "calendarium:Open Calendarium": false,
+      "fantasy-content-generator:Fantasy Generators": false,
+      "obsidian-5e-statblocks:Open Creature pane": false,
+      "obsidian-gallery:Gallery": false
     }
   },
-  "active": "2efede16a51f93bf",
+  "active": "793493c8ee6a4b8b",
   "lastOpenFiles": [
-    "News.md",
-    "The ultimate smash or pass compilation made by Alfred, Rayman and Kikic.md",
-    "Locations/lotactions/the lake of forsaken souls.md",
+    "characters/gods/Abaddon.md",
+    "campaigns/Vivex Conquest Campaign.md",
+    "characters/non-player/Vix.md",
+    "organizations/Yuan Ti Purifiers.md",
+    "characters/gods/Vex.md",
+    "characters/player/Alfred/Hansen Laus.md",
+    "campaigns/Hansen Campaign.md",
+    "characters/player/Cajklik/Zoey Oddstone.md",
+    "characters/player/Aleš/Aronwyn.md",
+    "characters/non-player/Fiel.md",
+    "characters/non-player/Mr. Nail.md",
+    "characters/non-player/DR George Zimmerman.md",
+    "characters/non-player/Siriel.md",
+    "characters/player/Aleš/Adow.md",
+    "characters/player/Aleš/Abyclaw.md",
+    "characters/player/Aleš/Arax.webp",
+    "characters/player/Aleš/Arax.md",
+    "characters/player/Aleš/Aerich.md",
+    "characters/player/Aleš/Aleš the Druid.md",
+    "characters/player/Aleš/Adarra.md",
+    "characters/player/Aleš/Atirra.md",
+    "characters/player/Aleš/Turo.md",
+    "characters/player/Aleš/Azari the quick.md",
+    "characters/player/Glitcher/Blyat-man.md",
+    "characters/player/Alfred/The Librarian.md",
+    "characters/player/Ema/Naria.md",
+    "organizations/The Great Hellenic Unification front.md",
+    "Untitled.canvas",
     "Locations/lotactions",
-    "God chess set/Werewolf village.png",
-    "God chess set/the suspisious church.png",
-    "God chess set/Spectator.png",
-    "God chess set/Maya the mother of werewolves.png",
-    "God chess set/Henry Zybnek Ivan.png",
-    "God chess set/God chess set.md",
-    "God chess set",
+    "objects/God chess set/Werewolf village.png",
+    "objects/God chess set/the suspisious church.png",
+    "objects/God chess set/Spectator.png",
+    "objects/God chess set/Maya the mother of werewolves.png",
+    "objects/God chess set/Henry Zybnek Ivan.png",
+    "objects/God chess set",
     "Pasted image 20240225172158.png",
     "Pasted image 20240225170057.png",
     "Pasted image 20240225165734.png",
     "Pasted image 20240225165720.png",
-    "Pasted image 20240225165703.png",
-    "Pasted.md",
-    "characters/non-player/Valencia.md",
-    "characters/non-player/Random army's commissioner.md",
-    "characters/non-player/Gregory The Not Hag.md",
-    "characters/non-player/Tim the Spy.md",
-    "campaigns/Mister Handy Champaign.md",
-    "characters/player/Ema/Viv Decor.md",
-    "characters/non-player/Two kobold children.md",
-    "characters/gods/Sun with Many Hands.md",
-    "Locations/cities/Seathbaed.md",
-    "characters/player/Cajklik/Jack Fullhouse.md",
-    "Locations/cities/Elven Citadel.md",
-    "Locations/teritories/Cossak Land.md",
-    "Locations/Remembered realm.md",
-    "calendars/Hellenic Calendar.md",
-    "Locations/cities/Bejas.md",
-    "Locations/cities/Ancient Deep Gnome city.md",
-    "Locations/buildings/Catacombs under Sorrow Peak.md",
-    "Locations/buildings/Kasmir's Emporio.md",
-    "Locations/buildings/Laboratory under the church.md",
-    "Locations/buildings/Mointain tample.md",
-    "Untitled.canvas",
     "Untitled 1.canvas"
   ]
 }

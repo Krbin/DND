@@ -28,7 +28,7 @@
   },
   "temporaryGlobalGraphSetting": {
     "filter": {
-      "searchQuery": "tag:#in-progress  ",
+      "searchQuery": "",
       "showOrphans": true,
       "showAttachments": false
     },
