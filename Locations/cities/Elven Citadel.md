@@ -1,3 +1,3 @@
 Elven Citadel is a city of High [[Elfs]]
 
-#location #city #in-progress 
+#location #city #backlog 

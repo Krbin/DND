@@ -1,4 +1,4 @@
-Former chef of army of the [[state of Hellenicia]].
+Former chef of army of the [[Hellenic Empire]].
 
 
-#npc #in-progress 
+#npc #backlog 

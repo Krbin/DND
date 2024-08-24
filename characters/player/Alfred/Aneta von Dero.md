@@ -1,3 +1,3 @@
-Sister of [[Bernard von Dero]] and half-elf. She is daughter of nobles in the [[Lortest Fortress]] vicinity and lead [[Tetriam Partem]]. Also she was kinda Karen. She was a wizard. 
+Sister of [[Bernard von Dero]] and half-elf wizard. She is daughter of nobles in the [[Lortest Fortress]] vicinity and lead the political party [[Tetriam Partem]]. 
 
-#PC #Alfred #in-progress 
+#PC #Alfred 

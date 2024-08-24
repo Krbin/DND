@@ -4,4 +4,4 @@ He was a acquaintance of the [[AA team]].
 
 [[Lorkan Riviery portrait.png]]
 
-#npc #in-progress 
+#npc #backlog 

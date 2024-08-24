@@ -1,5 +1,4 @@
-They are kidnapping people from [[Sorrow Peak]]. 
-They are probably created with an magic item that is connected to their vital parts.
+They are monsters manifested by the influence of a dead god who is predecessor of [[Chronos]] which kidnapped residents of [[Sorrow Peak]] during the [[Sorrow Peak Campaign]]
 
 
-#species #not-sentient #in-progress 
+#species #not-sentient #sorrow-peak  

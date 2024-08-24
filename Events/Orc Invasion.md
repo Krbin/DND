@@ -1,3 +1,3 @@
-Orc's united and invaded [[state of Hellenicia]] and [[Bergun D'e Imperialis]]
+Orc's united and invaded [[Hellenic Empire]] and [[Bergun D'e Imperialis]]
 
-#Event #in-progress 
+#Event #backlog 

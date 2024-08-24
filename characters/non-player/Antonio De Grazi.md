@@ -1,4 +1,4 @@
-Antonio De Grazi was an emperor of [[state of Hellenicia]]. He ascended the throne in a year 1727 of [[Hellenic Calendar]]. 
+Antonio De Grazi was an emperor of [[Hellenic Empire]]. He ascended the throne in a year 1727 of [[Hellenic Calendar]]. 
 
 - He was born in a family of winemakers .
 - He was added to the council of 10 philosophers.
@@ -20,14 +20,14 @@ Antonio De Grazi was an emperor of [[state of Hellenicia]]. He ascended the thro
 - They left [[Islandic realm]] as a base of [[Capybaras]]. 
 	- This was a controversial move because [[Capybaras]].
 		- the [[Islandic realm]] became a partisan unofficial ally of [[Giff]]s.
-	- [[Islandic realm]] was alienated diplomatically to the [[state of Hellenicia]] and [[Draconic Junathsland]].   
-	- [[Capybaras]] gave [[Bejas]] back to the [[state of Hellenicia]] in a better shape than before [[the Capybara Invasion]].
+	- [[Islandic realm]] was alienated diplomatically to the [[Hellenic Empire]] and [[Draconic Junathsland]].   
+	- [[Capybaras]] gave [[Bejas]] back to the [[Hellenic Empire]] in a better shape than before [[the Capybara Invasion]].
 
 - After [[The Giff Invasion]] invasion he passed laws against racial discrimination which he announced in his speech.
 - He kept status quo between Red Cossak and Black shield  because he knew that if he disrupt it the other side would be a bigger problem.
 - He new that [[Cossak Land]] is a ticking time bomb so he married his adoptive, a son of Bonifac the II. (demigod) to tsarina of [[Cossak Land]].
 
-- He didn't want to get involved in the [[Hansen Campaign]].
+- He didn't want to get involved in the [[Hansen's Campaign]].
 
 
 

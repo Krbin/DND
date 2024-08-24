@@ -1,2 +1,2 @@
 
-#in-progress #Event
+#backlog #militaristic-event #Event

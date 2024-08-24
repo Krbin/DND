@@ -1,3 +1,3 @@
-It's a shop that is located in [[Sorrow Peak]].
+It's a shop that is located in [[Sorrow Peak]] owned by [[Kasmir]].
 
-#location  #sorrow-peak #in-progress 
+#location  #sorrow-peak 

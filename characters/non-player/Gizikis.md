@@ -4,9 +4,9 @@
 
 Gizikis first appeared in the [[Post-Lortest Campaign]] as a one of the parties running for power between [[Yuan Ti Purifiers]] and [[The Great Hellenic Unification front]].  He was regarded as one of the opposing parties to [[Tetriam Partem]].
 
-Later he appeared in the [[Bokor Campaign]] and [[Hansen Campaign]] as a steersman for the group and died during the betrayal by [[Freddy Mercury the dragon]] 
+Later he appeared in the [[Bokor's Campaign]] and [[Hansen's Campaign]] as a steersman for the group and died during the betrayal by [[Freddy Mercury the dragon]] 
 
-#npc #in-progress 
+#npc #backlog 
 ## Backstory
 He was born in to a family of common birth who sent him to a elite school which co-aligned with his wish to pursue writing. When he arrived there he was met with hostility from the youth of the noble class who belittled him because of his status, 
 this led him to focus more on his studies and complete the school against the efforts of the other students.
@@ -41,7 +41,7 @@ Against the best efforts of the established office [[Lortest Empire]] fell into 
 
 [[Abaddon]] than later used it to exert pressure on Gizikis to give up his power over the empire and his soul to him under the threat of war against his servants. This led Gizikis to choose the only viable solution he had perceived and agreed to this arrangement making himself puppet of [[Abaddon]].
 
-This allowed [[Abaddon]] to start a war with the [[state of Hellenicia]] even though victory of [[Lortest Empire]] was improbable.
+This allowed [[Abaddon]] to start a war with the [[Hellenic Empire]] even though victory of [[Lortest Empire]] was improbable.
 Their chances were shattered when Hellenicia recovered faster than anticipated and gods decided to join forces to turn the land and sea against him.
 
 Even after this [[Abaddon]] refused to give up which led to massive depletion of resources of [[Lortest Empire]] both material and living but when even that failed he decided to say "it's abaddonin' time" giving Gizikis his soul back and left the offensive with his servants which resulted in it's complete collapse.

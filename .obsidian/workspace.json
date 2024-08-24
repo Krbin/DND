@@ -4,47 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "b67769797020b2de",
+        "id": "7d66c788590de087",
         "type": "tabs",
         "children": [
           {
-            "id": "d662eb94b0eb4562",
-            "type": "leaf",
-            "state": {
-              "type": "ob-gallery",
-              "state": {}
-            }
-          },
-          {
-            "id": "172633f9dd9e3dd2",
-            "type": "leaf",
-            "state": {
-              "type": "ob-gallery",
-              "state": {}
-            }
-          },
-          {
-            "id": "1e1b745c4ecee2b6",
-            "type": "leaf",
-            "state": {
-              "type": "3d-graph-view-global",
-              "state": {}
-            }
-          },
-          {
-            "id": "793493c8ee6a4b8b",
+            "id": "6eaa54030d57c9a9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "characters/player/Cajklik/Scarecrow.md",
+                "file": "characters/player/Ema/Malicia de Vries.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -73,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#in-progress",
+                "query": "#backlog",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -89,12 +64,21 @@
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "bbc31180fbdc72d3",
+            "type": "leaf",
+            "state": {
+              "type": "tagfolder-view",
+              "state": {}
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 437.5,
+    "collapsed": true
   },
   "right": {
     "id": "a4d21c2e4a1dae05",
@@ -110,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "characters/player/Cajklik/Scarecrow.md",
+                "file": "characters/player/Ema/Malicia de Vries.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "characters/player/Cajklik/Scarecrow.md",
+                "file": "characters/player/Ema/Malicia de Vries.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,16 +134,8 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "characters/player/Cajklik/Scarecrow.md"
+                "file": "characters/player/Ema/Malicia de Vries.md"
               }
-            }
-          },
-          {
-            "id": "a369d5a2973aa44a",
-            "type": "leaf",
-            "state": {
-              "type": "ob-gallery-info",
-              "state": {}
             }
           },
           {
@@ -175,13 +151,49 @@
             "state": {
               "type": "CALENDARIUM"
             }
+          },
+          {
+            "id": "74212d035f1793ff",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM"
+            }
+          },
+          {
+            "id": "48cd8f6f174ccae1",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM"
+            }
+          },
+          {
+            "id": "76bdbc51ba2279f2",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 6
+      },
+      {
+        "id": "73ba041bd2580666",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "51c28b4cfa6159bd",
+            "type": "leaf",
+            "state": {
+              "type": "fantasy-statblocks-creature-pane",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -196,42 +208,51 @@
       "omnisearch:Omnisearch": false,
       "yet-another-obsidian-synchronizer:YAOS": false,
       "3d-graph-new:Global 3D Graph": false,
-      "calendarium:Open Calendarium": false,
       "fantasy-content-generator:Fantasy Generators": false,
       "obsidian-5e-statblocks:Open Creature pane": false,
-      "obsidian-gallery:Gallery": false
+      "obsidian-gallery:Gallery": false,
+      "calendarium:Open Calendarium": false
     }
   },
-  "active": "793493c8ee6a4b8b",
+  "active": "6eaa54030d57c9a9",
   "lastOpenFiles": [
-    "characters/gods/Abaddon.md",
-    "campaigns/Vivex Conquest Campaign.md",
-    "characters/non-player/Vix.md",
-    "organizations/Yuan Ti Purifiers.md",
-    "characters/gods/Vex.md",
-    "characters/player/Alfred/Hansen Laus.md",
-    "campaigns/Hansen Campaign.md",
-    "characters/player/Cajklik/Zoey Oddstone.md",
-    "characters/player/Aleš/Aronwyn.md",
-    "characters/non-player/Fiel.md",
-    "characters/non-player/Mr. Nail.md",
-    "characters/non-player/DR George Zimmerman.md",
-    "characters/non-player/Siriel.md",
-    "characters/player/Aleš/Adow.md",
-    "characters/player/Aleš/Abyclaw.md",
+    "characters/non-player/Sir Arthur Platenbaum.md",
+    "characters/player/Human/Mouna Emberleaf.md",
+    "Events/the mudbeast incident.md",
+    "Events/the Great Predecessor War.md",
+    "Events/The Great Poltergeist Incident.md",
+    "Events/The Giff Invasion.md",
+    "Events/Task from Bokor (Epidemic).md",
+    "Events/Task from Bokor (Destroy local force).md",
+    "Events/Sorrow Peak gnome mine collapse.md",
+    "Events/Orc Invasion.md",
+    "Events/Hansen's attack on a village.md",
+    "Events/Gnome Water reaction.md",
+    "Events/Game Of Gods.md",
+    "Events/Earthquake of Sorrow Peak.md",
+    "Events/Court proceeding of Beatrice's assault incident.md",
+    "Events/Bokor rebellion.md",
+    "Events/Battle at Gabriel beach.md",
+    "Events/Beatrice's assault of Inquisitor.md",
+    "campaigns/the Limbo Campaign.md",
+    "campaigns/2nd Hansen's Campaign.md",
+    "characters/player/Ema/Viv Decor.md",
+    "characters/non-player/Valencia.md",
+    "characters/gods/Tiamat.md",
+    "characters/player/Human/Caletal.md",
+    "characters/non-player/Leif.md",
+    "objects/Bockor's law.md",
     "characters/player/Aleš/Arax.webp",
-    "characters/player/Aleš/Arax.md",
-    "characters/player/Aleš/Aerich.md",
-    "characters/player/Aleš/Aleš the Druid.md",
-    "characters/player/Aleš/Adarra.md",
-    "characters/player/Aleš/Atirra.md",
-    "characters/player/Aleš/Turo.md",
-    "characters/player/Aleš/Azari the quick.md",
-    "characters/player/Glitcher/Blyat-man.md",
-    "characters/player/Alfred/The Librarian.md",
-    "characters/player/Ema/Naria.md",
-    "organizations/The Great Hellenic Unification front.md",
+    "Events/militaristic events",
+    "Locations/Remembered realm.jpg",
+    "_images/ultimate anti lizardfolk ship plan.png",
+    "_images",
     "Untitled.canvas",
+    "organizations/state organizations",
+    "organizations/local organizations",
+    "organizations/international organizations",
+    "organizations/political parties",
+    "organizations/religious  organizations",
     "Locations/lotactions",
     "objects/God chess set/Werewolf village.png",
     "objects/God chess set/the suspisious church.png",
@@ -241,8 +262,6 @@
     "objects/God chess set",
     "Pasted image 20240225172158.png",
     "Pasted image 20240225170057.png",
-    "Pasted image 20240225165734.png",
-    "Pasted image 20240225165720.png",
     "Untitled 1.canvas"
   ]
 }

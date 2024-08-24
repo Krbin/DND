@@ -1,4 +1,4 @@
 He is a  experiment of Bokor named Banana.
-He appeared during the [[Bokor Campaign]].
+He appeared during the [[Bokor's Campaign]].
 
-#npc #in-progress 
+#npc #backlog 

@@ -1,4 +1,4 @@
 
-[[Hansen Campaign]]
+[[Hansen's Campaign]]
 
-#Event #in-progress 
+#Event #militaristic-event #hansen-campaign  #backlog 

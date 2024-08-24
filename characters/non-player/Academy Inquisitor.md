@@ -1,4 +1,4 @@
-Inquisitor of the [[Church of Chandlers]] involved in the [[Beatrice's assault of Inquisitor]] incident. He first appeared at the start of the [[Butcher Campaign]].  
+Inquisitor of the [[Church of Chandler]] involved in the [[Beatrice's assault of Inquisitor]] incident. He first appeared at the start of the [[Butcher Campaign]].  
 After the group graduated wanted them to infiltrate the [[Atheists]] and gauge from them incriminating information.
 
 He was acting arrogantly with a condescending attitude. 

@@ -1,3 +1,12 @@
-From the initiative of [[Axel]] who had personal vendetta because of the [[Axel face removal incident]]  the [[AA team]] 
+The campaign started from the initiative of [[Axel]] who had personal vendetta with [[Butcher]].
 
-#in-progress #campaign 
+
+Members of the Group:
+- [[Alruna Evenstar]]
+- [[Atirra]]
+- [[Beatrice Coin]]
+- [[Kathra Stormwind]]
+- [[Romeo Salamander]] ([[Axel]])
+
+
+#backlog #campaign 

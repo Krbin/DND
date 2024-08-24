@@ -7,4 +7,4 @@ Introduced as a [[Ebravo Eskanor]] he took from every adventurer a thing that th
 
 He then engaged them in fights from most of which they run off. Later when they finally managed to fatally wound him. He reviled that he attacked them because he wanted to force them to go back to adventuring so they can stop [[The Great Poltergeist Incident]]
 
- #in-progress  #campaign
+ #backlog  #campaign

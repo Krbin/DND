@@ -6,4 +6,4 @@ Notable characters:
 [[John Johnson]].
 [[Head Atheist]]
 
-#city #location #in-progress 
+#city #location 

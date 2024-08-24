@@ -1,7 +1,8 @@
-Butcher was a originally veteran man hunter but after he was sold to scientist who work in [[Laboratory under the church]] he was turned into a monster that feasted on humanoid flash.
+Butcher was a alias of a serial killer who took joy in mutilating bodies. 
 
-He first appeared in the [[Butcher Campaign]] 
+He originally lived in [[Old D'e Porto]] where after reading novels of his friend *(that has a name but who cares)* he became an man-hunter.
+Later he was sold to a scientist  who work in [[Laboratory under the church]] he was turned into a monster by injecting him with demonic blood that feasted on humanoid flash.
 
-He was executed by a group of adventurers.
+He was the main villain of the [[Butcher Campaign]].
 
-#npc 
+#npc

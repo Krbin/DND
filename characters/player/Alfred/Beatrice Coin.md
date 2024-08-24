@@ -3,4 +3,4 @@ A fighter who grew up on stories of some unknown hero named Alex. Her father is 
  
 A daughter of [[Dorcan Coin]].
 
-#PC #Alfred #in-progress 
+#PC #Alfred #backlog 

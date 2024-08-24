@@ -5,4 +5,4 @@ The campaign where the party consisting of:
 [[Joshua Vigo]]
 
 
-#campaign #in-progress 
+#campaign #backlog 

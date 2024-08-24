@@ -1,3 +1,3 @@
-The captain of a [[ghost ship]] in the [[Bokor Campaign]].
+The captain of a [[ghost ship]] in the [[Bokor's Campaign]].
 
-#npc #in-progress 
+#npc #backlog 
