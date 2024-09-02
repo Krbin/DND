@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "7d66c788590de087",
+        "id": "4da768392bd7dcf6",
         "type": "tabs",
         "children": [
           {
-            "id": "6eaa54030d57c9a9",
+            "id": "1db2a413e93e63f1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "characters/player/Ema/Malicia de Vries.md",
+                "file": "The ultimate smash or pass compilation.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "#backlog",
+                "query": " ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 437.5,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "a4d21c2e4a1dae05",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "characters/player/Ema/Malicia de Vries.md",
+                "file": "The ultimate smash or pass compilation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "characters/player/Ema/Malicia de Vries.md",
+                "file": "The ultimate smash or pass compilation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,47 +133,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "characters/player/Ema/Malicia de Vries.md"
+                "file": "The ultimate smash or pass compilation.md"
               }
-            }
-          },
-          {
-            "id": "44ea87abd7f93c62",
-            "type": "leaf",
-            "state": {
-              "type": "CALENDARIUM"
-            }
-          },
-          {
-            "id": "6795b96b942f7ab0",
-            "type": "leaf",
-            "state": {
-              "type": "CALENDARIUM"
-            }
-          },
-          {
-            "id": "74212d035f1793ff",
-            "type": "leaf",
-            "state": {
-              "type": "CALENDARIUM"
-            }
-          },
-          {
-            "id": "48cd8f6f174ccae1",
-            "type": "leaf",
-            "state": {
-              "type": "CALENDARIUM"
-            }
-          },
-          {
-            "id": "76bdbc51ba2279f2",
-            "type": "leaf",
-            "state": {
-              "type": "CALENDARIUM"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 3
       },
       {
         "id": "73ba041bd2580666",
@@ -214,8 +178,15 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "6eaa54030d57c9a9",
+  "active": "7654e6cffe3616dc",
   "lastOpenFiles": [
+    "The ultimate smash or pass compilation.md",
+    "characters/non-player/Hector the Savior.md",
+    "characters/non-player/Gorge Evenhill.md",
+    "characters/non-player/Arack Nicklebasse.md",
+    "characters/player/Aleš/Atirra.md",
+    "campaigns/2nd Hansen's Campaign.md",
+    "characters/player/Ema/Malicia de Vries.md",
     "characters/non-player/Sir Arthur Platenbaum.md",
     "characters/player/Human/Mouna Emberleaf.md",
     "Events/the mudbeast incident.md",
@@ -235,13 +206,6 @@
     "Events/Battle at Gabriel beach.md",
     "Events/Beatrice's assault of Inquisitor.md",
     "campaigns/the Limbo Campaign.md",
-    "campaigns/2nd Hansen's Campaign.md",
-    "characters/player/Ema/Viv Decor.md",
-    "characters/non-player/Valencia.md",
-    "characters/gods/Tiamat.md",
-    "characters/player/Human/Caletal.md",
-    "characters/non-player/Leif.md",
-    "objects/Bockor's law.md",
     "characters/player/Aleš/Arax.webp",
     "Events/militaristic events",
     "Locations/Remembered realm.jpg",

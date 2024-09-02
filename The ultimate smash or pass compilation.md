@@ -1,22 +1,22 @@
-Inkvizitor pass
+Inkvizitor -  pass
 
-Kathe sher smash
+Keith Sher - smash
 
 Arack Nicklebase – pass
 
-Baron – smash
+Baron – pass
 
 Bacon - pass
 
 John Johnson – smash
 
-Big Fernaro – smash
+Big Fernardo – pass
 
 Bokor – smash
 
 Banan – pass 
 
-Bonifac from Helenicia – pass
+Bonifac from Helenicia – smash
 
 Breadley – pass
 
@@ -24,36 +24,37 @@ Butcher – pass
 
 Clank – pass
 
-Dragonness ride – smash
+Dragonness rider – smash
 
 Embravo Escador – smash
 
-Feywild Black Knight – smash 
+Feywild Black Knight – pass 
 
-Freddy Mercury – pass
+Freddy Mercury – smash
 
-Gizekis – pass
+Gizikis – smash
 
 Goblin boblin – sock
 
-George Evenhill – pass
+George Evenhill – smash
 
 Head atheist – pass
 
-Hector – pass
+Hector the Savior – small
+ 
+Škebloun – pass
 
-Skebloun – pass
-
-James – pass
+James  the Necromancer– pass
 
 Jekyll Hyde – pass
+
 Joe Shmoe – Smash
 
-John apple – Pass
+John apple – smash
 
 Alexander Kerenevsky – Pass
 
-Lorence – Smash
+Lorence z Helenicie – Pass
 
 Lorkan Riviera – smash
 
@@ -65,25 +66,23 @@ Maya (werewolf) – smash
 
 Margarhet – smash
 
-Mr Handyman – smash
+Mr Handyman – pass
 
-Priestess – Pass
+Priestess Sorrow Peak – Pass
 
 Old Greg – Pass
 
-Olde Porte Butcher – pass
+Old De Porte Butcher – pass
 
 Pedro Poltergeist – pass
 
-Shopkeeper – pass
+Fairy The (not) Witch – pass <---
 
-weird witch that is not a witch – pass
+Tim the spy – pass 
 
-the shovel spy – pass
+Vex - smash 
 
-Vex - smash
-
-Vix – smash
+Vix – smash 
 
 Rozinante – pass 
 
