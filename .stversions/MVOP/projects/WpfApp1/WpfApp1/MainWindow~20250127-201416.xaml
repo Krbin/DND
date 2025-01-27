@@ -1,0 +1,70 @@
+﻿<Window x:Class="WpfApp1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp1"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="6*"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="5*"></RowDefinition>
+            <RowDefinition Height="*"></RowDefinition>
+        </Grid.RowDefinitions>
+
+        <Grid Grid.Column="1" Grid.Row="1">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="4*"/>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+            </Grid.RowDefinitions>
+
+            <TextBlock FontSize="20" Text="Name" Grid.Row="0"/>
+            <TextBlock FontSize="20" Text="Surname" Grid.Row="1"/>
+            <TextBlock FontSize="20" Text="Year of birth" Grid.Row="2"/>
+            <TextBlock FontSize="20" Text="Position" Grid.Row="3"/>
+            <TextBlock FontSize="20" Text="Gross Wage" Grid.Row="4"/>
+
+            <Button x:Name="submitButton" Padding="0" VerticalContentAlignment="Center" Content="SUBMIT" FontSize="35" Grid.Row="5" Grid.Column="2" Click="submitButton_Click" />
+
+            <StackPanel Grid.Row="0" Grid.Column="2">
+                <TextBox x:Name="nameBox" LostKeyboardFocus="nameBoxLostKeyboardFocus"  Height="25"></TextBox>
+                <TextBox x:Name="nameWarningBox"  Focusable="False" Height="25" Foreground="Red"></TextBox>
+            </StackPanel>
+
+            <StackPanel Grid.Row="1" Grid.Column="2">
+            <TextBox x:Name="surnameBox" LostKeyboardFocus="surnameBoxLostKeyboardFocus"  Height="25"></TextBox>
+            <TextBox x:Name="surnameWarningBox"  Focusable="False" Height="25" Foreground="Red"></TextBox>
+            </StackPanel>
+
+            <StackPanel Grid.Row="2" Grid.Column="2">
+            <TextBox x:Name="birthyearBox" LostKeyboardFocus="birthyearBoxLostKeyboardFocus"  Height="25"></TextBox>
+            <TextBox x:Name="birthyearWarningBox"  Focusable="False" Height="25" Foreground="Red"></TextBox>
+            </StackPanel>
+            
+            <StackPanel Grid.Row="3" Grid.Column="2">
+            <TextBox x:Name="positionBox" LostKeyboardFocus="positionBoxLostKeyboardFocus"  Height="25"></TextBox>
+            <TextBox x:Name="positionWarningBox"  Focusable="False" Height="25" Foreground="Red"></TextBox>
+            </StackPanel>
+
+            <StackPanel Grid.Row="4" Grid.Column="2">
+            <TextBox x:Name="grossWageBox" LostKeyboardFocus="grossWageBoxLostKeyboardFocus"  Height="25"></TextBox>
+            <TextBox x:Name="grossWageWarningBox"  Focusable="False" Height="25" Foreground="Red"></TextBox>
+            </StackPanel>
+
+        </Grid>
+    </Grid>
+</Window>

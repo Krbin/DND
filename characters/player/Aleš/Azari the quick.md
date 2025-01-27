@@ -1,4 +1,3 @@
-Monk that specializes in speed.
+Monk that specializes in speed of unknown origins and unknown fate.
 
-
-#PC #Aleš #backlog
+#PC #Aleš 

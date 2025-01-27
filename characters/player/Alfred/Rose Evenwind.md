@@ -4,6 +4,4 @@ After [[Beatrice Coin]] helped to kill [[Butcher]] and lost her pig [[Beacon]]. 
 
 After that she changed her name and started her new life under new identity.
 
-
-
-#PC #Alfred #backlog 
+#PC #Alfred 

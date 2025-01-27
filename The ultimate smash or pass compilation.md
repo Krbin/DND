@@ -1,8 +1,8 @@
 Inkvizitor -  pass
 
-Keith Sher - smash
+[[Keith Sher]]  - smash
 
-Arack Nicklebase – pass
+[[Arack Nicklebasse]]  – pass
 
 Baron – pass
 
@@ -76,7 +76,7 @@ Old De Porte Butcher – pass
 
 Pedro Poltergeist – pass
 
-Fairy The (not) Witch – pass <---
+Fairy The (not) Witch – pass 
 
 Tim the spy – pass 
 
@@ -84,113 +84,109 @@ Vex - smash
 
 Vix – smash 
 
-Rozinante – pass 
+Rozinante – smash 
 
-Sir Arthur – pass
+Sir Arthur Platenbaum – pass 
 
 Jane – smash 
 
-Magnus – smash
+Magnus – smash 
 
 Jaxu the blue dragon – smash
 
 Kris – pass 
 
-Láďa – pass
+Láďa – pass  
 
-Valencia – smash
+Valencia – smash 
 
-Hungry Johnny – pass
+Hungry Johnny – pass 
 
-Siriel – Smash
+Siriel – Smash 
 
-Antonio de Graci – Smash
+Antonio de Graci – Smash 
 
-Oggo foggo – Smash
+Oggo foggo – Skipped
 
-Hansen – Smash
+Tiamat – Smash 
 
-Tiamat – Smash
+Abbaddon – Pass 
 
-Abbaddon – Pass
+Chronos – Smash 
 
-Chronos – Smash
+[[Gllenns]] – Smash 
 
-Glance – Smash
+God Of Sleep – pass 
 
-God Of Sleep – pass
+God Of Glory Day and Sunset – pass 
 
-God Of Glory Day and Sunset – pass
+Gort – smash 
 
-Gort – smash
+Grand Mole – pass 
 
-Grand – pass
+Chandelier – pass 
 
-Chandelier – pass
+Mistra – smash 
 
-Mistra – smash
+Nar Zk’ar – Pass
 
-Narzkar – Pass
+Grim Reaper – smash 
 
-Grim Reaper – pass
+Sun with Many Hands – Smash 
 
-The manyhanded sun – Smash
+Utern-zara – pass 
 
-Timora – smash
+Zerneff – Skip 
 
-Utern-zara – pass
-
-Zerneff – pass
-
-the Moon – pass
+the Moon – pass 
 
 Syah – smash
 
 Sisiphus – smash
 
-Gaia – pass
+Gaia – pass 
 
-Anetta Von Dero – Smash
+Anetta Von Dero – pass 
 
-Megu – Smash
+Megu – Smash 
 
-Beatrice – Smash
+Beatrice – Smash 
 
-Bernard Von Dero – pass
+Bernard Von Dero – pass 
 
-Dorkan – Smash 
+Dorkan – Smash  
 
-Fir – Smash
+Fir – pass 
 
-Forrest – Smash
+Forrest – Smash 
+ 
+Hansen Laus – Smash 
 
-Hansen Laus – Smash
+Heavensing – smash 
 
-Heavensing – smash
+Lorida – pass 
 
-Lorida – pass
+MAGU – Smash 
 
-MAGU – Smash
+Mist – pass 
 
-Mist – smash
-
-Grace – pass
+Grace – pass 
 
 Rose Evenwind – smash 
 
-Adarra – Smash
+Adarra – Smash 
 
-Adow – Smash
+Adow – Smash 
 
-Aerich – smash
+Aerich – smash 
 
-Ales the druid – pass
+Ales the druid – pass 
 
-Arax – pass
+Arax – pass 
 
-Atirra – smash 
+Atirra – smash  
 
-Azari the quick – smash
+Azari the quick – smash 
 
 Turo – smash
 
@@ -198,48 +194,42 @@ Alex – pass
 
 Axel – pass
 
-Ben – pass
+Ben Lkaj – smash 
 
-Gabriel – Smash
+Gabriel – Smash 
 
-Jack fullhouse – pass
+Jack fullhouse – pass 
 
-Romeo Salamander – pass
+Romeo Salamander – pass 
 
-Scarecrow – pass
+Scarecrow –  smash
 
-Kathra – smash
+Kathra – pass 
 
-Lisa (without drugs) – pass
+Lisa (without drugs) – smash 
 
-Lisa (with drugs) – smash
+Lisa (with drugs) – SUPER SMASH 
 
-Malicia – smash
+Malicia – smash 
 
-Val – pass
+Val – pass 
 
-Viv – smash 
+Viv Decor – smash 
 
-All the glitcher – pass
+All the glitcher – pass 
 
-Alruna – Smash
+Alruna – Smash 
 
-Azami – Pass
+Azami – Pass 
 
-elizabeth – smash 
+Elizabeth – smash 
 
-Four – smash
+Four – smash 
 
-John Doe – smash
+John Doe – smash 
 
-Joshua Vigo – smash
+Joshua Vigo – smash 
 
-Mouna – smash
+Mouna – smash 
 
-Firestorm – Smash
 
-Henry – pass
-
-Fry Drykethon – smash
-
-Nalfein – Pass

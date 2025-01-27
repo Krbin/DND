@@ -1,0 +1,81 @@
+is_global = true
+build_property.TargetFramework = net7.0-android
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.EnableAotAnalyzer = 
+build_property.EnableSingleFileAnalyzer = true
+build_property.EnableTrimAnalyzer = false
+build_property.IncludeAllContentForSelfExtract = 
+build_property.RootNamespace = School
+build_property.ProjectDir = C:\Users\kubin.kr.2021\source\repos\School\School\
+
+[C:/Users/kubin.kr.2021/source/repos/School/School/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = School.App.xaml
+build_metadata.AdditionalFiles.TargetPath = App.xaml
+build_metadata.AdditionalFiles.RelativePath = App.xaml
+
+[C:/Users/kubin.kr.2021/source/repos/School/School/AppShell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = School.AppShell.xaml
+build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
+build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
+
+[C:/Users/kubin.kr.2021/source/repos/School/School/Resources/Styles/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = School.Resources.Styles.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
+
+[C:/Users/kubin.kr.2021/source/repos/School/School/Resources/Styles/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = School.Resources.Styles.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
+
+[C:/Users/kubin.kr.2021/source/repos/School/School/Views/Employee/AllEmployeesPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = School.Views.Employee.AllEmployeesPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\Employee\AllEmployeesPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\Employee\AllEmployeesPage.xaml
+
+[C:/Users/kubin.kr.2021/source/repos/School/School/Views/Employee/ServicePersonalPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = School.Views.Employee.ServicePersonalPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\Employee\ServicePersonalPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\Employee\ServicePersonalPage.xaml
+
+[C:/Users/kubin.kr.2021/source/repos/School/School/Views/Employee/SupportPersonalPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = School.Views.Employee.SupportPersonalPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\Employee\SupportPersonalPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\Employee\SupportPersonalPage.xaml
+
+[C:/Users/kubin.kr.2021/source/repos/School/School/Views/Employee/Teacher.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = School.Views.Employee.Teacher.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\Employee\Teacher.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\Employee\Teacher.xaml
+
+[C:/Users/kubin.kr.2021/source/repos/School/School/Views/SchoolPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = School.Views.SchoolPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\SchoolPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\SchoolPage.xaml
+
+[C:/Users/kubin.kr.2021/source/repos/School/School/Views/Student/AllStudentsPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = School.Views.Student.AllStudentsPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\Student\AllStudentsPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\Student\AllStudentsPage.xaml
+
+[C:/Users/kubin.kr.2021/source/repos/School/School/Views/Student/StudentPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = School.Views.Student.StudentPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\Student\StudentPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\Student\StudentPage.xaml

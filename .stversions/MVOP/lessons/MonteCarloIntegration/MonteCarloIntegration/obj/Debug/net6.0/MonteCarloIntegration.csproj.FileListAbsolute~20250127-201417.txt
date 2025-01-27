@@ -1,0 +1,14 @@
+C:\Users\kubin.kr.2021\Documents\GitHub\MVOP\lessons\MonteCarloIntegration\MonteCarloIntegration\bin\Debug\net6.0\MonteCarloIntegration.exe
+C:\Users\kubin.kr.2021\Documents\GitHub\MVOP\lessons\MonteCarloIntegration\MonteCarloIntegration\bin\Debug\net6.0\MonteCarloIntegration.deps.json
+C:\Users\kubin.kr.2021\Documents\GitHub\MVOP\lessons\MonteCarloIntegration\MonteCarloIntegration\bin\Debug\net6.0\MonteCarloIntegration.runtimeconfig.json
+C:\Users\kubin.kr.2021\Documents\GitHub\MVOP\lessons\MonteCarloIntegration\MonteCarloIntegration\bin\Debug\net6.0\MonteCarloIntegration.dll
+C:\Users\kubin.kr.2021\Documents\GitHub\MVOP\lessons\MonteCarloIntegration\MonteCarloIntegration\bin\Debug\net6.0\MonteCarloIntegration.pdb
+C:\Users\kubin.kr.2021\Documents\GitHub\MVOP\lessons\MonteCarloIntegration\MonteCarloIntegration\obj\Debug\net6.0\MonteCarloIntegration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kubin.kr.2021\Documents\GitHub\MVOP\lessons\MonteCarloIntegration\MonteCarloIntegration\obj\Debug\net6.0\MonteCarloIntegration.AssemblyInfoInputs.cache
+C:\Users\kubin.kr.2021\Documents\GitHub\MVOP\lessons\MonteCarloIntegration\MonteCarloIntegration\obj\Debug\net6.0\MonteCarloIntegration.AssemblyInfo.cs
+C:\Users\kubin.kr.2021\Documents\GitHub\MVOP\lessons\MonteCarloIntegration\MonteCarloIntegration\obj\Debug\net6.0\MonteCarloIntegration.csproj.CoreCompileInputs.cache
+C:\Users\kubin.kr.2021\Documents\GitHub\MVOP\lessons\MonteCarloIntegration\MonteCarloIntegration\obj\Debug\net6.0\MonteCarloIntegration.dll
+C:\Users\kubin.kr.2021\Documents\GitHub\MVOP\lessons\MonteCarloIntegration\MonteCarloIntegration\obj\Debug\net6.0\refint\MonteCarloIntegration.dll
+C:\Users\kubin.kr.2021\Documents\GitHub\MVOP\lessons\MonteCarloIntegration\MonteCarloIntegration\obj\Debug\net6.0\MonteCarloIntegration.pdb
+C:\Users\kubin.kr.2021\Documents\GitHub\MVOP\lessons\MonteCarloIntegration\MonteCarloIntegration\obj\Debug\net6.0\MonteCarloIntegration.genruntimeconfig.cache
+C:\Users\kubin.kr.2021\Documents\GitHub\MVOP\lessons\MonteCarloIntegration\MonteCarloIntegration\obj\Debug\net6.0\ref\MonteCarloIntegration.dll

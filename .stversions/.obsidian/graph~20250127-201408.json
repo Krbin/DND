@@ -1,0 +1,86 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "#god ",
+      "color": {
+        "a": 1,
+        "rgb": 6754063
+      }
+    },
+    {
+      "query": "tag:#city ",
+      "color": {
+        "a": 1,
+        "rgb": 3604735
+      }
+    },
+    {
+      "query": "tag:#PC  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
+      }
+    },
+    {
+      "query": "tag:#Event  ",
+      "color": {
+        "a": 1,
+        "rgb": 6824384
+      }
+    },
+    {
+      "query": "tag:#state  ",
+      "color": {
+        "a": 1,
+        "rgb": 3691452
+      }
+    },
+    {
+      "query": "tag:#organisation  ",
+      "color": {
+        "a": 1,
+        "rgb": 45050
+      }
+    },
+    {
+      "query": "tag:#npc  ",
+      "color": {
+        "a": 1,
+        "rgb": 12592678
+      }
+    },
+    {
+      "query": "#species",
+      "color": {
+        "a": 1,
+        "rgb": 6498134
+      }
+    },
+    {
+      "query": "#campaign",
+      "color": {
+        "a": 1,
+        "rgb": 14745855
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": true,
+  "textFadeMultiplier": -3,
+  "nodeSizeMultiplier": 1.12986335850414,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": false,
+  "centerStrength": 0.411542610571737,
+  "repelStrength": 20,
+  "linkStrength": 1,
+  "linkDistance": 30,
+  "scale": 0.059326171875,
+  "close": false
+}

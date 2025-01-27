@@ -5,6 +5,6 @@ There is a functioning elevator.
 
 There is [[Underground Generator]] collecting magic.
 
+Powered by a dead god [[Chronos]] (but the old one).
 
-
-#location #backlog 
+#location  

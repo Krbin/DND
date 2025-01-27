@@ -7,4 +7,4 @@ Later they thanks to [[Alex]] who was able to fit through the tunnels and find t
 
 With their contributions consisting of blowing up the industry sector of the city and destroying the automaton factory they helped them win the short war.
 
-#backlog  #campaign
+ #campaign

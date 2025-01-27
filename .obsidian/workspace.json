@@ -16,10 +16,69 @@
                 "file": "The ultimate smash or pass compilation.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "The ultimate smash or pass compilation"
+            }
+          },
+          {
+            "id": "9d954860e969c761",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "campaigns/the Limbo Campaign.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "the Limbo Campaign"
+            }
+          },
+          {
+            "id": "60b09cab0a93992a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "characters/player/Cajklik/Alex.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Alex"
+            }
+          },
+          {
+            "id": "5d2f5fef3825d2c5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locations/states/Disunited kingdom of Salsdom.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Disunited kingdom of Salsdom"
+            }
+          },
+          {
+            "id": "fd400d25d735adc3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "characters/player/Glitcher/Steve Johnson.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Steve Johnson"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -39,7 +98,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -48,13 +109,15 @@
             "state": {
               "type": "search",
               "state": {
-                "query": " ",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -62,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           },
           {
@@ -70,7 +135,19 @@
             "type": "leaf",
             "state": {
               "type": "tagfolder-view",
-              "state": {}
+              "state": {},
+              "icon": "stacked-levels",
+              "title": "Tag Folder"
+            }
+          },
+          {
+            "id": "0fb8557cd3bd209f",
+            "type": "leaf",
+            "state": {
+              "type": "tagfolder-view",
+              "state": {},
+              "icon": "stacked-levels",
+              "title": "Tag Folder"
             }
           }
         ]
@@ -93,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The ultimate smash or pass compilation.md",
+                "file": "campaigns/the Limbo Campaign.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +178,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for the Limbo Campaign"
             }
           },
           {
@@ -110,10 +189,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The ultimate smash or pass compilation.md",
+                "file": "campaigns/the Limbo Campaign.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from the Limbo Campaign"
             }
           },
           {
@@ -124,7 +205,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -133,12 +216,60 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The ultimate smash or pass compilation.md"
-              }
+                "file": "campaigns/the Limbo Campaign.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of the Limbo Campaign"
+            }
+          },
+          {
+            "id": "da2080259db1c4c5",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM",
+              "state": {
+                "calendar": "ID_68daaa588af8",
+                "ephemeral": {
+                  "viewState": 1,
+                  "displaying": {
+                    "day": 28,
+                    "month": 7,
+                    "year": 2024
+                  },
+                  "displayDayNumber": false,
+                  "displayMoons": true
+                },
+                "id": "ID_6b89788beb88"
+              },
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "817b92e0b9812c4e",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM",
+              "state": {
+                "calendar": "ID_68daaa588af8",
+                "ephemeral": {
+                  "viewState": 1,
+                  "displaying": {
+                    "day": 28,
+                    "month": 7,
+                    "year": 2024
+                  },
+                  "displayDayNumber": false,
+                  "displayMoons": true
+                },
+                "id": "ID_3acadae8f9da"
+              },
+              "icon": "CALENDARIUM",
+              "title": "Calendarium"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       },
       {
         "id": "73ba041bd2580666",
@@ -149,15 +280,16 @@
             "type": "leaf",
             "state": {
               "type": "fantasy-statblocks-creature-pane",
-              "state": {}
+              "state": {},
+              "icon": "skull",
+              "title": "Combatant"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 236.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -167,45 +299,45 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
+      "omnisearch:Omnisearch": false,
       "darlal-switcher-plus:Open in Headings Mode": false,
       "darlal-switcher-plus:Open Symbols for the active editor": false,
-      "omnisearch:Omnisearch": false,
       "yet-another-obsidian-synchronizer:YAOS": false,
       "3d-graph-new:Global 3D Graph": false,
+      "calendarium:Open Calendarium": false,
       "fantasy-content-generator:Fantasy Generators": false,
       "obsidian-5e-statblocks:Open Creature pane": false,
-      "obsidian-gallery:Gallery": false,
-      "calendarium:Open Calendarium": false
+      "obsidian-gallery:Gallery": false
     }
   },
-  "active": "7654e6cffe3616dc",
+  "active": "fd400d25d735adc3",
   "lastOpenFiles": [
+    "characters/player/Cajklik/Nicolas Watermoon.md",
+    "characters/player/Glitcher/Steve Johnson.md",
+    "characters/player/Ema/Evelyn Watermoon.md",
+    "characters/player/Aleš/Ashvein.md",
+    "characters/player/Aleš/Aronwyn.md",
+    "characters/player/Ema/Untitled.md",
+    "characters/non-player/Mother.md",
+    "Paladins of FIre.md",
+    "Purple forest.md",
+    "Locations/states/Disunited kingdom of Salsdom.md",
+    "Locations/cities/Bockor's secret island.md",
+    "Locations/states/Bergun D'e Imperialis.md",
+    "objects/weapons/ALRAM.md",
+    "characters/player/groups/AA team.md",
     "The ultimate smash or pass compilation.md",
+    "characters/player/Cajklik/Alex.md",
+    "characters/player/Cajklik/Axel.md",
+    "characters/player/Aleš/Turo.md",
+    "characters/player/Aleš/Atirra.md",
+    "characters/player/Aleš/Aerich.md",
+    "characters/player/Aleš/Adow.md",
+    "characters/gods/Gllenns.md",
+    "Hungry Johnny.md",
+    "characters/non-player/Valencia.md",
     "characters/non-player/Hector the Savior.md",
     "characters/non-player/Gorge Evenhill.md",
-    "characters/non-player/Arack Nicklebasse.md",
-    "characters/player/Aleš/Atirra.md",
-    "campaigns/2nd Hansen's Campaign.md",
-    "characters/player/Ema/Malicia de Vries.md",
-    "characters/non-player/Sir Arthur Platenbaum.md",
-    "characters/player/Human/Mouna Emberleaf.md",
-    "Events/the mudbeast incident.md",
-    "Events/the Great Predecessor War.md",
-    "Events/The Great Poltergeist Incident.md",
-    "Events/The Giff Invasion.md",
-    "Events/Task from Bokor (Epidemic).md",
-    "Events/Task from Bokor (Destroy local force).md",
-    "Events/Sorrow Peak gnome mine collapse.md",
-    "Events/Orc Invasion.md",
-    "Events/Hansen's attack on a village.md",
-    "Events/Gnome Water reaction.md",
-    "Events/Game Of Gods.md",
-    "Events/Earthquake of Sorrow Peak.md",
-    "Events/Court proceeding of Beatrice's assault incident.md",
-    "Events/Bokor rebellion.md",
-    "Events/Battle at Gabriel beach.md",
-    "Events/Beatrice's assault of Inquisitor.md",
-    "campaigns/the Limbo Campaign.md",
     "characters/player/Aleš/Arax.webp",
     "Events/militaristic events",
     "Locations/Remembered realm.jpg",

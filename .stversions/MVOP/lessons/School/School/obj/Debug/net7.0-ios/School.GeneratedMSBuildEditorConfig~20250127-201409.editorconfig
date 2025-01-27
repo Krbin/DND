@@ -1,0 +1,71 @@
+is_global = true
+build_property.TargetFramework = net7.0-ios
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = School
+build_property.ProjectDir = /home/krbin/Documents/Obsidian/DND/MVOP/lessons/School/School/
+
+[/home/krbin/Documents/Obsidian/DND/MVOP/lessons/School/School/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = School.App.xaml
+build_metadata.AdditionalFiles.TargetPath = App.xaml
+build_metadata.AdditionalFiles.RelativePath = App.xaml
+
+[/home/krbin/Documents/Obsidian/DND/MVOP/lessons/School/School/AppShell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = School.AppShell.xaml
+build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
+build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
+
+[/home/krbin/Documents/Obsidian/DND/MVOP/lessons/School/School/Resources/Styles/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = School.Resources.Styles.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources/Styles/Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources/Styles/Colors.xaml
+
+[/home/krbin/Documents/Obsidian/DND/MVOP/lessons/School/School/Resources/Styles/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = School.Resources.Styles.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources/Styles/Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources/Styles/Styles.xaml
+
+[/home/krbin/Documents/Obsidian/DND/MVOP/lessons/School/School/Views/ServicePersonalPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = School.Views.ServicePersonalPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views/ServicePersonalPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views/ServicePersonalPage.xaml
+
+[/home/krbin/Documents/Obsidian/DND/MVOP/lessons/School/School/Views/StudentPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = School.Views.StudentPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views/StudentPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views/StudentPage.xaml
+
+[/home/krbin/Documents/Obsidian/DND/MVOP/lessons/School/School/Views/SupportPersonalPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = School.Views.SupportPersonalPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views/SupportPersonalPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views/SupportPersonalPage.xaml
+
+[/home/krbin/Documents/Obsidian/DND/MVOP/lessons/School/School/Views/TeacherPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = School.Views.TeacherPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views/TeacherPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views/TeacherPage.xaml
+
+[/home/krbin/Documents/Obsidian/DND/MVOP/lessons/School/School/Views/Templates/PersonEditTemplate.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = School.Views.Templates.PersonEditTemplate.xaml
+build_metadata.AdditionalFiles.TargetPath = Views/Templates/PersonEditTemplate.xaml
+build_metadata.AdditionalFiles.RelativePath = Views/Templates/PersonEditTemplate.xaml
+
+[/home/krbin/Documents/Obsidian/DND/MVOP/lessons/School/School/Views/Templates/PersonListTemplate.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = School.Views.Templates.PersonListTemplate.xaml
+build_metadata.AdditionalFiles.TargetPath = Views/Templates/PersonListTemplate.xaml
+build_metadata.AdditionalFiles.RelativePath = Views/Templates/PersonListTemplate.xaml

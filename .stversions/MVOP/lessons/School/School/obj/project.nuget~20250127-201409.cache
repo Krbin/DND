@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "AzpjCCcwPCwh9erPVHMndlp1Xb28BEnS76THHvleFM/LHAjVh2qvjVZzM57svBcQTRAQCL+M+LkM7Zcdr47Eyg==",
+  "success": false,
+  "projectFilePath": "/home/krbin/Documents/Obsidian/DND/MVOP/lessons/School/School/School.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1012",
+      "level": "Error",
+      "message": "Platform version is not present for one or more target frameworks, even though they have specified a platform: net7.0-ios, net7.0-maccatalyst"
+    }
+  ]
+}

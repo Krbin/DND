@@ -1,2 +1,2 @@
-
-#backlog #militaristic-event #Event
+Read it in [[lore]] 
+#militaristic-event #Event

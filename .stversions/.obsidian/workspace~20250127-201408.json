@@ -1,0 +1,326 @@
+{
+  "main": {
+    "id": "7ad0eaf4dda2bd71",
+    "type": "split",
+    "children": [
+      {
+        "id": "4da768392bd7dcf6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1db2a413e93e63f1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The ultimate smash or pass compilation.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The ultimate smash or pass compilation"
+            }
+          },
+          {
+            "id": "9d954860e969c761",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "campaigns/the Limbo Campaign.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "the Limbo Campaign"
+            }
+          },
+          {
+            "id": "60b09cab0a93992a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "characters/player/Cajklik/Alex.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Alex"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2bb41e2ad9b44f72",
+    "type": "split",
+    "children": [
+      {
+        "id": "1ca7a46e84f80a66",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7654e6cffe3616dc",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "102caddebf9e481b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "#backlog",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "8c1dde67ac54284c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "bbc31180fbdc72d3",
+            "type": "leaf",
+            "state": {
+              "type": "tagfolder-view",
+              "state": {},
+              "icon": "stacked-levels",
+              "title": "Tag Folder"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "a4d21c2e4a1dae05",
+    "type": "split",
+    "children": [
+      {
+        "id": "e204894e7926f837",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e61511e161dff6d6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "campaigns/the Limbo Campaign.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for the Limbo Campaign"
+            }
+          },
+          {
+            "id": "d672f088dc99ddf0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "campaigns/the Limbo Campaign.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from the Limbo Campaign"
+            }
+          },
+          {
+            "id": "098f9ab66a576cf6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "845337aea621c64d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "campaigns/the Limbo Campaign.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of the Limbo Campaign"
+            }
+          },
+          {
+            "id": "da2080259db1c4c5",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM",
+              "state": {
+                "calendar": "ID_68daaa588af8",
+                "ephemeral": {
+                  "viewState": 1,
+                  "displaying": {
+                    "day": 28,
+                    "month": 7,
+                    "year": 2024
+                  },
+                  "displayDayNumber": false,
+                  "displayMoons": true
+                },
+                "id": "ID_6b89788beb88"
+              },
+              "icon": "CALENDARIUM",
+              "title": "Calendarium"
+            }
+          },
+          {
+            "id": "817b92e0b9812c4e",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM",
+              "state": {
+                "calendar": "ID_68daaa588af8",
+                "ephemeral": {
+                  "viewState": 1,
+                  "displaying": {
+                    "day": 28,
+                    "month": 7,
+                    "year": 2024
+                  },
+                  "displayDayNumber": false,
+                  "displayMoons": true
+                },
+                "id": "ID_3acadae8f9da"
+              },
+              "icon": "CALENDARIUM",
+              "title": "Calendarium"
+            }
+          }
+        ],
+        "currentTab": 5
+      },
+      {
+        "id": "73ba041bd2580666",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "51c28b4cfa6159bd",
+            "type": "leaf",
+            "state": {
+              "type": "fantasy-statblocks-creature-pane",
+              "state": {},
+              "icon": "skull",
+              "title": "Combatant"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 236.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "darlal-switcher-plus:Open in Headings Mode": false,
+      "darlal-switcher-plus:Open Symbols for the active editor": false,
+      "omnisearch:Omnisearch": false,
+      "yet-another-obsidian-synchronizer:YAOS": false,
+      "3d-graph-new:Global 3D Graph": false,
+      "fantasy-content-generator:Fantasy Generators": false,
+      "obsidian-5e-statblocks:Open Creature pane": false,
+      "obsidian-gallery:Gallery": false,
+      "calendarium:Open Calendarium": false
+    }
+  },
+  "active": "51c28b4cfa6159bd",
+  "lastOpenFiles": [
+    "The ultimate smash or pass compilation.md",
+    "characters/player/Cajklik/Alex.md",
+    "characters/player/Cajklik/Axel.md",
+    "characters/player/Aleš/Turo.md",
+    "characters/player/Aleš/Atirra.md",
+    "characters/player/Aleš/Aerich.md",
+    "characters/player/Aleš/Adow.md",
+    "characters/gods/Gllenns.md",
+    "Hungry Johnny.md",
+    "characters/non-player/Valencia.md",
+    "characters/non-player/Hector the Savior.md",
+    "characters/non-player/Gorge Evenhill.md",
+    "characters/non-player/Arack Nicklebasse.md",
+    "campaigns/2nd Hansen's Campaign.md",
+    "characters/player/Ema/Malicia de Vries.md",
+    "characters/non-player/Sir Arthur Platenbaum.md",
+    "characters/player/Human/Mouna Emberleaf.md",
+    "Events/the mudbeast incident.md",
+    "Events/the Great Predecessor War.md",
+    "Events/The Great Poltergeist Incident.md",
+    "Events/The Giff Invasion.md",
+    "Events/Task from Bokor (Epidemic).md",
+    "Events/Task from Bokor (Destroy local force).md",
+    "Events/Sorrow Peak gnome mine collapse.md",
+    "Events/Orc Invasion.md",
+    "Events/Hansen's attack on a village.md",
+    "characters/player/Aleš/Arax.webp",
+    "Events/militaristic events",
+    "Locations/Remembered realm.jpg",
+    "_images/ultimate anti lizardfolk ship plan.png",
+    "_images",
+    "Untitled.canvas",
+    "organizations/state organizations",
+    "organizations/local organizations",
+    "organizations/international organizations",
+    "organizations/political parties",
+    "organizations/religious  organizations",
+    "Locations/lotactions",
+    "objects/God chess set/Werewolf village.png",
+    "objects/God chess set/the suspisious church.png",
+    "objects/God chess set/Spectator.png",
+    "objects/God chess set/Maya the mother of werewolves.png",
+    "objects/God chess set/Henry Zybnek Ivan.png",
+    "objects/God chess set",
+    "Pasted image 20240225172158.png",
+    "Pasted image 20240225170057.png",
+    "Untitled 1.canvas"
+  ]
+}
